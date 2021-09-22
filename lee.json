@@ -1,0 +1,3678 @@
+{
+  "ul": {
+    "@id": "colorlist",
+    "li": [
+      {
+        "@class": "swatch  v-10 red first-column",
+        "@style": "background-color:#E66EAF",
+        "a": {
+          "@href": "colour-details.html#048&amp;filter=cf",
+          "#text": "048"
+        },
+        "span": {
+          "strong": "Rose Purple",
+          "#text": "Good for emulating evening. Great backlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-30 violet peter-barnes",
+        "@style": "background-color:#AF0096",
+        "a": {
+          "@href": "colour-details.html#797&amp;filter=cf",
+          "#text": "797"
+        },
+        "span": {
+          "strong": "Deep Purple",
+          "#text": "Used in musical performances for general colour washes and set lighting."
+        },
+        "div": {
+          "@class": "add-color-box",
+          "@style": "margin-top: 20px;"
+        }
+      },
+      {
+        "@class": "swatch  v-40 violet",
+        "@style": "background-color:#BE0091",
+        "a": {
+          "@href": "colour-details.html#049&amp;filter=cf",
+          "#text": "049"
+        },
+        "span": {
+          "strong": "Medium Purple",
+          "#text": "A strong cheerful glow, good for cycloramas and pantomimes."
+        },
+        "div": {
+          "@class": "add-color-box",
+          "@style": "margin-top: 20px;"
+        }
+      },
+      {
+        "@class": "swatch  v-60 violet",
+        "@style": "background-color:#BE009B",
+        "a": {
+          "@href": "colour-details.html#126&amp;filter=cf",
+          "#text": "126"
+        },
+        "span": {
+          "strong": "Mauve",
+          "#text": "Good for backlighting. Dark magenta / purple adds drama and mood."
+        },
+        "div": {
+          "@class": "add-color-box",
+          "@style": "margin-top: 20px;"
+        }
+      },
+      {
+        "@class": "swatch  v-70 violet chris-ellis",
+        "@style": "background-color:#A000BE",
+        "a": {
+          "@href": "colour-details.html#798&amp;filter=cf",
+          "#text": "798"
+        },
+        "span": {
+          "strong": "Chrysalis Pink",
+          "#text": "A new deeper lavender with a dash of rose blusher."
+        },
+        "div": {
+          "@class": "add-color-box",
+          "@style": "margin-top: 20px;"
+        }
+      },
+      {
+        "@class": "swatch  v-80 violet dave-davey",
+        "@style": "background-color:#B45ADC",
+        "a": {
+          "@href": "colour-details.html#701&amp;filter=cf",
+          "#text": "701"
+        },
+        "span": {
+          "strong": "Provence",
+          "#text": "Colour of the Lavender fields of the south of France. A redder version of 180 for cameras balanced to tungsten."
+        },
+        "div": {
+          "@class": "add-color-box",
+          "@style": "margin-top: 20px;"
+        }
+      },
+      {
+        "@class": "swatch  v-90 violet",
+        "@style": "background-color:#CD6ED7",
+        "a": {
+          "@href": "colour-details.html#345&amp;filter=cf",
+          "#text": "345"
+        },
+        "span": {
+          "strong": "Fuchsia Pink",
+          "#text": "Good for musicals, pantomimes and sultry scenes."
+        },
+        "div": {
+          "@class": "add-color-box",
+          "@style": "margin-top: 20px;"
+        }
+      },
+      {
+        "@class": "swatch  v-100 violet peter-fisker",
+        "@style": "background-color:#D282DC",
+        "a": {
+          "@href": "colour-details.html#703&amp;filter=cf",
+          "#text": "703"
+        },
+        "span": {
+          "strong": "Cold Lavender",
+          "#text": "A colour that would be great for front / key lighting and that works well with 152 Pale Gold."
+        },
+        "div": {
+          "@class": "add-color-box",
+          "@style": "margin-top: 20px;"
+        }
+      },
+      {
+        "@class": "swatch ht v-110 violet",
+        "@style": "background-color:#E6AAFA",
+        "a": {
+          "@href": "colour-details.html#052&amp;filter=cf",
+          "#text": "052"
+        },
+        "span": {
+          "strong": "Light Lavender",
+          "#text": "Good for general areas and side lights. Great for a basic followspot colour as well as an excellent backlight."
+        },
+        "div": {
+          "@class": "add-color-box",
+          "@style": "margin-top: 20px;"
+        }
+      },
+      {
+        "@class": "swatch  v-120 violet durham-marenghi",
+        "@style": "background-color:#F0AAFA",
+        "a": {
+          "@href": "colour-details.html#704&amp;filter=cf",
+          "#text": "704"
+        },
+        "span": {
+          "strong": "Lily",
+          "#text": "A cool lavender with little red content. Good for romantic evening exteriors."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-130 violet",
+        "@style": "background-color:#E6AADC",
+        "a": {
+          "@href": "colour-details.html#170&amp;filter=cf",
+          "#text": "170"
+        },
+        "span": {
+          "strong": "Deep Lavender",
+          "#text": "Great for set lighting, discos and theatres."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-140 violet last4-column a-column",
+        "@style": "background-color:#F0BEE6",
+        "a": {
+          "@href": "colour-details.html#136&amp;filter=cf",
+          "#text": "136"
+        },
+        "span": {
+          "strong": "Pale Lavender",
+          "#text": "Great for pantomimes and ballroom sets. Also enhances dark skin tones in follow spots."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-150 violet last3-column flip-column a-column",
+        "@style": "background-color:#FADCF0",
+        "a": {
+          "@href": "colour-details.html#169&amp;filter=cf",
+          "#text": "169"
+        },
+        "span": {
+          "strong": "Lilac Tint",
+          "#text": "A pale lavender. Good for almost white light with a cool tint."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-160 violet durham-marenghi last2-column flip-column a-column",
+        "@style": "background-color:#E6D2F0",
+        "a": {
+          "@href": "colour-details.html#702&amp;filter=cf",
+          "#text": "702"
+        },
+        "span": {
+          "strong": "Special Pale Lavender",
+          "#text": "Cold lavender with a full tungsten source, but warms as the source is dimmed. Good as a fill for slow sunset fades."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-170 violet last-column flip-column a-column",
+        "@style": "background-color:#C8B4E6",
+        "a": {
+          "@href": "colour-details.html#137&amp;filter=cf",
+          "#text": "137"
+        },
+        "span": {
+          "strong": "Special Lavender",
+          "#text": "Good for moonlight and musical / romantic scenes. Enhances skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-180 violet first-column",
+        "@style": "background-color:#BE8CF0",
+        "a": {
+          "@href": "colour-details.html#194&amp;filter=cf",
+          "#text": "194"
+        },
+        "span": {
+          "strong": "Surprise Pink",
+          "#text": "Good for musicals."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-190 violet",
+        "@style": "background-color:#B46EF0",
+        "a": {
+          "@href": "colour-details.html#058&amp;filter=cf",
+          "#text": "058"
+        },
+        "span": {
+          "strong": "Lavender",
+          "#text": "An excellent backlight that creates a new dimension."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-200 violet",
+        "@style": "background-color:#A064E6",
+        "a": {
+          "@href": "colour-details.html#180&amp;filter=cf",
+          "#text": "180"
+        },
+        "span": {
+          "strong": "Dark Lavender",
+          "#text": "A pleasing effect for theatrical lighting and backlighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-210 violet",
+        "@style": "background-color:#8C00D2",
+        "a": {
+          "@href": "colour-details.html#343&amp;filter=cf",
+          "#text": "343"
+        },
+        "span": {
+          "strong": "Special Medium Lavender",
+          "#text": "Good for theatre and T.V. effect lighting and backlighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-220 violet peter-fisker",
+        "@style": "background-color:#7D00CD",
+        "a": {
+          "@href": "colour-details.html#700&amp;filter=cf",
+          "#text": "700"
+        },
+        "span": {
+          "strong": "Perfect Lavender",
+          "#text": "In-between 170 Deep Lavender and 345 Fuchsia Pink, and is good for backlighting and romantic atmospheres."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-230 blue",
+        "@style": "background-color:#5000AA",
+        "a": {
+          "@href": "colour-details.html#181&amp;filter=cf",
+          "#text": "181"
+        },
+        "span": {
+          "strong": "Congo Blue",
+          "#text": "Looks like black light when used with a fluorescent source. Great effect colour. Very saturated."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-240 violet peter-barnes",
+        "@style": "background-color:#6400B4",
+        "a": {
+          "@href": "colour-details.html#707&amp;filter=cf",
+          "#text": "707"
+        },
+        "span": {
+          "strong": "Ultimate Violet",
+          "#text": "Used in musical performances for general colour washes and set lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-250 violet henrik-hambro",
+        "@style": "background-color:#6E46C8",
+        "a": {
+          "@href": "colour-details.html#706&amp;filter=cf",
+          "#text": "706"
+        },
+        "span": {
+          "strong": "King Fals Lavender",
+          "#text": "A cold lavender."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-261 violet david-whitehead",
+        "@style": "background-color:#C8C8FA",
+        "a": {
+          "@href": "colour-details.html#709&amp;filter=cf",
+          "#text": "709"
+        },
+        "span": {
+          "strong": "Electric Lilac",
+          "#text": "Provides good colour rendering which creates a sharp edge, adding a touch of drama."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-262 violet",
+        "@style": "background-color:#AAAAF0",
+        "a": {
+          "@href": "colour-details.html#142&amp;filter=cf",
+          "#text": "142"
+        },
+        "span": {
+          "strong": "Pale Violet",
+          "#text": "Great Moonlight effect. Good for cyclorama lighting and highlighting foliage on plants."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-270 blue",
+        "@style": "background-color:#6464E6",
+        "a": {
+          "@href": "colour-details.html#199&amp;filter=cf",
+          "#text": "199"
+        },
+        "span": {
+          "strong": "Regal Blue",
+          "#text": "A deep lavender blue that strongly enhances skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-271 violet tanya-burns last4-column a-column",
+        "@style": "background-color:#5A46C3",
+        "a": {
+          "@href": "colour-details.html#508&amp;filter=cf",
+          "#text": "508"
+        },
+        "span": {
+          "strong": "Midnight Maya",
+          "#text": "A rich, sultry blue. Like Congo Blue, but greater light transmission so maintenance friendly - fewer gel changes."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-280 violet henrik-hambro last3-column flip-column a-column",
+        "@style": "background-color:#3C00B4",
+        "a": {
+          "@href": "colour-details.html#799&amp;filter=cf",
+          "#text": "799"
+        },
+        "span": {
+          "strong": "Special KH Lavender",
+          "#text": "A deep lavender that brings out the UV."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-290 blue last2-column flip-column a-column",
+        "@style": "background-color:#0000B4",
+        "a": {
+          "@href": "colour-details.html#071&amp;filter=cf",
+          "#text": "071"
+        },
+        "span": {
+          "strong": "Tokyo Blue",
+          "#text": "A deep blue, used for midnight scenes and cyclorama lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-300 blue andy-liddle last-column flip-column a-column",
+        "@style": "background-color:#003CA0",
+        "a": {
+          "@href": "colour-details.html#713&amp;filter=cf",
+          "#text": "713"
+        },
+        "span": {
+          "strong": "J.Winter Blue",
+          "#text": "Very dark blue with high UV content. Good in high concentrations for a moody and powerful stage colour wash."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-330 blue henrik-hambro first-column",
+        "@style": "background-color:#8CA0F0",
+        "a": {
+          "@href": "colour-details.html#710&amp;filter=cf",
+          "#text": "710"
+        },
+        "span": {
+          "strong": "Spir Special Blue",
+          "#text": "A cool industrial blue."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-340 blue",
+        "@style": "background-color:#6478C8",
+        "a": {
+          "@href": "colour-details.html#198&amp;filter=cf",
+          "#text": "198"
+        },
+        "span": {
+          "strong": "Palace Blue",
+          "#text": "Good for dark moonlight or a romantic evening."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-350 blue jakob-holst",
+        "@style": "background-color:#0064D2",
+        "a": {
+          "@href": "colour-details.html#716&amp;filter=cf",
+          "#text": "716"
+        },
+        "span": {
+          "strong": "Mikkel Blue",
+          "#text": "A romantic blue to produce a night effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-360 blue",
+        "@style": "background-color:#006ED2",
+        "a": {
+          "@href": "colour-details.html#195&amp;filter=cf",
+          "#text": "195"
+        },
+        "span": {
+          "strong": "Zenith Blue",
+          "#text": "Creates a good moonlight effect on a dark set. Also good for cycloramas."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-370 blue patrick-woodroffe",
+        "@style": "background-color:#3C6EDC",
+        "a": {
+          "@href": "colour-details.html#715&amp;filter=cf",
+          "#text": "715"
+        },
+        "span": {
+          "strong": "Cabana Blue",
+          "#text": "A deep blue that still has enough transmission to work encouragingly well on television."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-380 blue kate-wilkins",
+        "@style": "background-color:#5082DC",
+        "a": {
+          "@href": "colour-details.html#723&amp;filter=cf",
+          "#text": "723"
+        },
+        "span": {
+          "strong": "Virgin Blue",
+          "#text": "This is a pure blue, not too green and not too lavender, yet still feels warm for a blue with an early morning feel."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-390 blue peter-barnes",
+        "@style": "background-color:#0082E6",
+        "a": {
+          "@href": "colour-details.html#721&amp;filter=cf",
+          "#text": "721"
+        },
+        "span": {
+          "strong": "Berry Blue",
+          "#text": "Used in musical performances for rear colour wash or set lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-400 blue",
+        "@style": "background-color:#005FBE",
+        "a": {
+          "@href": "colour-details.html#120&amp;filter=cf",
+          "#text": "120"
+        },
+        "span": {
+          "strong": "Deep Blue",
+          "#text": "A pleasing effect for theatrical lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-410 blue",
+        "@style": "background-color:#006EC3",
+        "a": {
+          "@href": "colour-details.html#363&amp;filter=cf",
+          "#text": "363"
+        },
+        "span": {
+          "strong": "Special Medium Blue",
+          "#text": "Great for cool moonlight and mood effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-420 blue",
+        "@style": "background-color:#006EB9",
+        "a": {
+          "@href": "colour-details.html#085&amp;filter=cf",
+          "#text": "085"
+        },
+        "span": {
+          "strong": "Deeper Blue",
+          "#text": "A deep warm blue. Good for back and side lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-430 blue",
+        "@style": "background-color:#0078C8",
+        "a": {
+          "@href": "colour-details.html#119&amp;filter=cf",
+          "#text": "119"
+        },
+        "span": {
+          "strong": "Dark Blue",
+          "#text": "Good for mood effects created by backlighting and side lighting. Creates great contrast."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-440 blue chris-davey last4-column a-column",
+        "@style": "background-color:#008CD2",
+        "a": {
+          "@href": "colour-details.html#722&amp;filter=cf",
+          "#text": "722"
+        },
+        "span": {
+          "strong": "Bray Blue",
+          "#text": "A purer blue with very little red in it."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-450 blue last3-column flip-column a-column",
+        "@style": "background-color:#3C8CD2",
+        "a": {
+          "@href": "colour-details.html#079&amp;filter=cf",
+          "#text": "079"
+        },
+        "span": {
+          "strong": "Just Blue",
+          "#text": "A good colour mixing blue. Great for cyclorama lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-460 blue chris-ellis last2-column flip-column a-column",
+        "@style": "background-color:#5A91D2",
+        "a": {
+          "@href": "colour-details.html#714&amp;filter=cf",
+          "#text": "714"
+        },
+        "span": {
+          "strong": "Elysian Blue",
+          "#text": "A new deeper version of Alice Blue."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-470 blue last-column flip-column a-column",
+        "@style": "background-color:#64A0F0",
+        "a": {
+          "@href": "colour-details.html#075&amp;filter=cf",
+          "#text": "075"
+        },
+        "span": {
+          "strong": "Evening Blue",
+          "#text": "Good for night scenes and romantic moonlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-480 blue tanya-burns first-column",
+        "@style": "background-color:#8EB4FA",
+        "a": {
+          "@href": "colour-details.html#525&amp;filter=cf",
+          "#text": "525"
+        },
+        "span": {
+          "strong": "Argent Blue",
+          "#text": "LSI's Silver Anniversary colour. Great for a foreboding cold winter's night, but useful for general illuminance too."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-490 blue",
+        "@style": "background-color:#82AAE6",
+        "a": {
+          "@href": "colour-details.html#197&amp;filter=cf",
+          "#text": "197"
+        },
+        "span": {
+          "strong": "Alice Blue",
+          "#text": "Great for cyclorama lighting and creating deep blue skies cyclorama cycloramas."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-500 blue chris-davey",
+        "@style": "background-color:#A0BEF0",
+        "a": {
+          "@href": "colour-details.html#712&amp;filter=cf",
+          "#text": "712"
+        },
+        "span": {
+          "strong": "Bedford Blue",
+          "#text": "A smoky warm blue. Good for skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-510 blue",
+        "@style": "background-color:#91BEF5",
+        "a": {
+          "@href": "colour-details.html#200&amp;filter=cf",
+          "#text": "200"
+        },
+        "span": {
+          "strong": "Double CTB",
+          "#text": "Converts tungsten (3200K) to daylight (26000K) ."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-520 blue mark-henderson",
+        "@style": "background-color:#9BC3F0",
+        "a": {
+          "@href": "colour-details.html#719&amp;filter=cf",
+          "#text": "719"
+        },
+        "span": {
+          "strong": "Colour Wash Blue",
+          "#text": "To allow low intensity tungsten to hold a cold/blue feel."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-530 blue mark-henderson",
+        "@style": "background-color:#AABEDC",
+        "a": {
+          "@href": "colour-details.html#711&amp;filter=cf",
+          "#text": "711"
+        },
+        "span": {
+          "strong": "Cold Blue",
+          "#text": "Cold/grey HMI effect from a tungsten source. Will also help blend the light when using both tungsten and HMI sources."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-540 blue mike-robertson",
+        "@style": "background-color:#B4D2FF",
+        "a": {
+          "@href": "colour-details.html#500&amp;filter=cf",
+          "#text": "500"
+        },
+        "span": {
+          "strong": "Double New Colour Blue",
+          "#text": "The strongest of the NCB series for dramatic 'white' face and key light where warmer tones than CTB are required."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-550 blue mike-robertson",
+        "@style": "background-color:#D7EBFA",
+        "a": {
+          "@href": "colour-details.html#501&amp;filter=cf",
+          "#text": "501"
+        },
+        "span": {
+          "strong": "New Colour Blue (Robertson Blue)",
+          "#text": "An alternative to the CTB series with warmer tones and a lesser green cast for face and key light."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-560 blue rick-fisher",
+        "@style": "background-color:#DCEBFA",
+        "a": {
+          "@href": "colour-details.html#708&amp;filter=cf",
+          "#text": "708"
+        },
+        "span": {
+          "strong": "Cool Lavender",
+          "#text": "For use as a warmer tint without turning yellow and to recreate the colour of fluorescent lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-610 violet",
+        "@style": "background-color:#E6E6FA",
+        "a": {
+          "@href": "colour-details.html#053&amp;filter=cf",
+          "#text": "053"
+        },
+        "span": {
+          "strong": "Paler Lavender",
+          "#text": "A subtle cool wash."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-620 blue mike-robertson",
+        "@style": "background-color:#E1F0FF",
+        "a": {
+          "@href": "colour-details.html#502&amp;filter=cf",
+          "#text": "502"
+        },
+        "span": {
+          "strong": "Half New Colour Blue",
+          "#text": "A lighter correction in the NCB series."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-630 blue mike-robertson last4-column a-column",
+        "@style": "background-color:#F4FAFF",
+        "a": {
+          "@href": "colour-details.html#503&amp;filter=cf",
+          "#text": "503"
+        },
+        "span": {
+          "strong": "Quarter New Colour Blue",
+          "#text": "The lightest correction in the NCB series."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-640 blue last3-column flip-column a-column",
+        "@style": "background-color:#EBFCFF",
+        "a": {
+          "@href": "colour-details.html#203&amp;filter=cf",
+          "#text": "203"
+        },
+        "span": {
+          "strong": "Quarter CTB",
+          "#text": "Converts tungsten (3200K) to daylight (3600K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-641  declan-randall last2-column flip-column a-column",
+        "@style": "background-color:#98a8aa",
+        "a": {
+          "@href": "colour-details.html#600&amp;filter=cf",
+          "#text": "600"
+        },
+        "span": {
+          "strong": "Arctic White",
+          "#text": "Bright, brilliant blue-grey light at 100%. It does not warm up as it dims and is not affected by amber drift."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-642 blue declan-randall last-column flip-column a-column",
+        "@style": "background-color:#90a0a0",
+        "a": {
+          "@href": "colour-details.html#601&amp;filter=cf",
+          "#text": "601"
+        },
+        "span": {
+          "strong": "Silver",
+          "#text": "Silver-grey light at full power, dims through lavender grey then warm brown grey. Works well with 550 ALD Gold."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-650 blue first-column",
+        "@style": "background-color:#DCF5FF",
+        "a": {
+          "@href": "colour-details.html#061&amp;filter=cf",
+          "#text": "061"
+        },
+        "span": {
+          "strong": "Mist Blue",
+          "#text": "A cool wash good for night scenes."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-660 blue",
+        "@style": "background-color:#D2F5FF",
+        "a": {
+          "@href": "colour-details.html#063&amp;filter=cf",
+          "#text": "063"
+        },
+        "span": {
+          "strong": "Pale Blue",
+          "#text": "Cool front light wash, good for creating an overcast look for cold weather."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-670 blue",
+        "@style": "background-color:#D7F0FF",
+        "a": {
+          "@href": "colour-details.html#202&amp;filter=cf",
+          "#text": "202"
+        },
+        "span": {
+          "strong": "Half CTB",
+          "#text": "Converts tungsten (3200K) to daylight (4300K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-680 blue",
+        "@style": "background-color:#CDE6FA",
+        "a": {
+          "@href": "colour-details.html#281&amp;filter=cf",
+          "#text": "281"
+        },
+        "span": {
+          "strong": "Three Quarter CTB",
+          "#text": "Converts tungsten to daylight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-690 blue",
+        "@style": "background-color:#C3E1FA",
+        "a": {
+          "@href": "colour-details.html#201&amp;filter=cf",
+          "#text": "201"
+        },
+        "span": {
+          "strong": "Full CTB",
+          "#text": "Converts tungsten (3200K) to photographic daylight (5700K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-700 blue",
+        "@style": "background-color:#AFD9F5",
+        "a": {
+          "@href": "colour-details.html#283&amp;filter=cf",
+          "#text": "283"
+        },
+        "span": {
+          "strong": "One and a Half CTB",
+          "#text": "Converts tungsten (3200K) to daylight (8888K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-710 blue",
+        "@style": "background-color:#AAD2F0",
+        "a": {
+          "@href": "colour-details.html#366&amp;filter=cf",
+          "#text": "366"
+        },
+        "span": {
+          "strong": "Cornflower",
+          "#text": "Great for pale moonlight and seasonal mood lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-720 blue",
+        "@style": "background-color:#AFE1FA",
+        "a": {
+          "@href": "colour-details.html#174&amp;filter=cf",
+          "#text": "174"
+        },
+        "span": {
+          "strong": "Dark Steel Blue",
+          "#text": "Great for set lighting. Creates good moonlight shadows."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-730 blue",
+        "@style": "background-color:#7DD2F5",
+        "a": {
+          "@href": "colour-details.html#161&amp;filter=cf",
+          "#text": "161"
+        },
+        "span": {
+          "strong": "Slate Blue",
+          "#text": "A pure medium blue. Good for skies, moonlight and dusk effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-740 blue",
+        "@style": "background-color:#46B4F0",
+        "a": {
+          "@href": "colour-details.html#068&amp;filter=cf",
+          "#text": "068"
+        },
+        "span": {
+          "strong": "Sky Blue",
+          "#text": "Good for morning skin tones and night skies. Great for cyclorama lights."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-750 blue",
+        "@style": "background-color:#00A0DC",
+        "a": {
+          "@href": "colour-details.html#132&amp;filter=cf",
+          "#text": "132"
+        },
+        "span": {
+          "strong": "Medium Blue",
+          "#text": "Deep moonlight. Great for colour mixing."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-760 blue last4-column a-column",
+        "@style": "background-color:#5AC8EB",
+        "a": {
+          "@href": "colour-details.html#165&amp;filter=cf",
+          "#text": "165"
+        },
+        "span": {
+          "strong": "Daylight Blue",
+          "#text": "Great for moonlight effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-770 blue last3-column flip-column a-column",
+        "@style": "background-color:#5AC8E1",
+        "a": {
+          "@href": "colour-details.html#352&amp;filter=cf",
+          "#text": "352"
+        },
+        "span": {
+          "strong": "Glacier Blue",
+          "#text": "A cold blue, good for cool atmospheric mood setting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-780 blue last2-column flip-column a-column",
+        "@style": "background-color:#64BED2",
+        "a": {
+          "@href": "colour-details.html#143&amp;filter=cf",
+          "#text": "143"
+        },
+        "span": {
+          "strong": "Pale Navy Blue",
+          "#text": "Great moonlight / night effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-790 blue last-column flip-column a-column",
+        "@style": "background-color:#78D2E6",
+        "a": {
+          "@href": "colour-details.html#196&amp;filter=cf",
+          "#text": "196"
+        },
+        "span": {
+          "strong": "True Blue",
+          "#text": "Great for moonlight effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-810 blue peter-fisker first-column",
+        "@style": "background-color:#00A5B4",
+        "a": {
+          "@href": "colour-details.html#727&amp;filter=cf",
+          "#text": "727"
+        },
+        "span": {
+          "strong": "QFD Blue",
+          "#text": "A special version of 729 Scuba Blue which is good for backlighting and swimming pool effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-820 blue",
+        "@style": "background-color:#00D2E6",
+        "a": {
+          "@href": "colour-details.html#141&amp;filter=cf",
+          "#text": "141"
+        },
+        "span": {
+          "strong": "Bright Blue",
+          "#text": "Very dramatic when used as moonlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-830 blue",
+        "@style": "background-color:#00D7E3",
+        "a": {
+          "@href": "colour-details.html#183&amp;filter=cf",
+          "#text": "183"
+        },
+        "span": {
+          "strong": "Moonlight Blue",
+          "#text": "Good for moonlight effect and cycloramas."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-840 blue",
+        "@style": "background-color:#00E1EB",
+        "a": {
+          "@href": "colour-details.html#118&amp;filter=cf",
+          "#text": "118"
+        },
+        "span": {
+          "strong": "Light Blue",
+          "#text": "A strong night effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-850 blue david-hersey",
+        "@style": "background-color:#69E1EB",
+        "a": {
+          "@href": "colour-details.html#724&amp;filter=cf",
+          "#text": "724"
+        },
+        "span": {
+          "strong": "Ocean Blue",
+          "#text": "Useful at low levels of light. Good for dull skies and moonlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-860 blue",
+        "@style": "background-color:#5AE1E6",
+        "a": {
+          "@href": "colour-details.html#144&amp;filter=cf",
+          "#text": "144"
+        },
+        "span": {
+          "strong": "No Colour Blue",
+          "#text": "A clean blue with hints of green. Good for moonlight and sidelight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-880 blue david-hersey",
+        "@style": "background-color:#BEF2F3",
+        "a": {
+          "@href": "colour-details.html#725&amp;filter=cf",
+          "#text": "725"
+        },
+        "span": {
+          "strong": "Old Steel Blue",
+          "#text": "Cool wash, useful for highlights."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-890 blue",
+        "@style": "background-color:#B4FAF5",
+        "a": {
+          "@href": "colour-details.html#117&amp;filter=cf",
+          "#text": "117"
+        },
+        "span": {
+          "strong": "Steel Blue",
+          "#text": "Good for cool washes. Adds a pale green tint. Great for emulating icy weather on stage."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-900 blue",
+        "@style": "background-color:#87F0EB",
+        "a": {
+          "@href": "colour-details.html#140&amp;filter=cf",
+          "#text": "140"
+        },
+        "span": {
+          "strong": "Summer Blue",
+          "#text": "Good for light midday sky. Light blue tinted wash."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-910 blue",
+        "@style": "background-color:#61E8E3",
+        "a": {
+          "@href": "colour-details.html#353&amp;filter=cf",
+          "#text": "353"
+        },
+        "span": {
+          "strong": "Lighter Blue",
+          "#text": "Good for daylight effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-920 blue",
+        "@style": "background-color:#00DCDC",
+        "a": {
+          "@href": "colour-details.html#172&amp;filter=cf",
+          "#text": "172"
+        },
+        "span": {
+          "strong": "Lagoon Blue",
+          "#text": "A floodlit warm wash. Great for underwater scenes and ballet."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-930 blue last4-column a-column",
+        "@style": "background-color:#00F0D7",
+        "a": {
+          "@href": "colour-details.html#354&amp;filter=cf",
+          "#text": "354"
+        },
+        "span": {
+          "strong": "Special Steel Blue",
+          "#text": "A cooling blue-green wash for stage and set lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-940 blue peter-barnes last3-column flip-column a-column",
+        "@style": "background-color:#00AFAA",
+        "a": {
+          "@href": "colour-details.html#729&amp;filter=cf",
+          "#text": "729"
+        },
+        "span": {
+          "strong": "Scuba Blue",
+          "#text": "Used in musical performances for a rear colour wash or set lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-950 blue last2-column flip-column a-column",
+        "@style": "background-color:#00C8B9",
+        "a": {
+          "@href": "colour-details.html#116&amp;filter=cf",
+          "#text": "116"
+        },
+        "span": {
+          "strong": "Medium Blue-Green",
+          "#text": "A pleasing effect for theatrical lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-960 blue last-column flip-column a-column",
+        "@style": "background-color:#00EBC8",
+        "a": {
+          "@href": "colour-details.html#115&amp;filter=cf",
+          "#text": "115"
+        },
+        "span": {
+          "strong": "Peacock Blue",
+          "#text": "A pleasing effect on set Good for cyclorama and backlighting (e.g. ice rinks, galas, etc)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-970 green first-column",
+        "@style": "background-color:#008C50",
+        "a": {
+          "@href": "colour-details.html#327&amp;filter=cf",
+          "#text": "327"
+        },
+        "span": {
+          "strong": "Forest Green",
+          "#text": "A deep green for sinister forest scenes, cycloramas and backlighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-980 green",
+        "@style": "background-color:#00DC78",
+        "a": {
+          "@href": "colour-details.html#124&amp;filter=cf",
+          "#text": "124"
+        },
+        "span": {
+          "strong": "Dark Green",
+          "#text": "Good for cycloramas and backlighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1000 green rick-fisher",
+        "@style": "background-color:#00BE78",
+        "a": {
+          "@href": "colour-details.html#735&amp;filter=cf",
+          "#text": "735"
+        },
+        "span": {
+          "strong": "Velvet Green",
+          "#text": "A beautiful background colour. Victorian melodrama. A night time green."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1030 green",
+        "@style": "background-color:#00E1AA",
+        "a": {
+          "@href": "colour-details.html#323&amp;filter=cf",
+          "#text": "323"
+        },
+        "span": {
+          "strong": "Jade",
+          "#text": "Used for underwater scenes, cycloramas and backlighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1040 green",
+        "@style": "background-color:#41F5BE",
+        "a": {
+          "@href": "colour-details.html#322&amp;filter=cf",
+          "#text": "322"
+        },
+        "span": {
+          "strong": "Soft Green",
+          "#text": "A cool green used for gobo cover, pantomimes and cycloramas."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1050 green",
+        "@style": "background-color:#64FAD2",
+        "a": {
+          "@href": "colour-details.html#131&amp;filter=cf",
+          "#text": "131"
+        },
+        "span": {
+          "strong": "Marine Blue",
+          "#text": "Good for romantic moonlight. Often used in ballet and underwater scenes."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1060 green",
+        "@style": "background-color:#9BDCAF",
+        "a": {
+          "@href": "colour-details.html#219&amp;filter=cf",
+          "#text": "219"
+        },
+        "span": {
+          "strong": "LEE Fluorescent Green",
+          "#text": "General tungsten to fluorescent correction for use when fluorescent colour temp is unknown, to provide medium correction."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1070 green",
+        "@style": "background-color:#AADCC3",
+        "a": {
+          "@href": "colour-details.html#241&amp;filter=cf",
+          "#text": "241"
+        },
+        "span": {
+          "strong": "LEE Fluorescent 5700 Kelvin",
+          "#text": "Converts tungsten to fluorescent light of 5700K (cool white/daylight)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1080 green rick-fisher",
+        "@style": "background-color:#C8EBD2",
+        "a": {
+          "@href": "colour-details.html#728&amp;filter=cf",
+          "#text": "728"
+        },
+        "span": {
+          "strong": "Steel Green",
+          "#text": "Approaching storms. Overcast days. Cold steely light. Malevolent moonlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1090 green mike-robertson",
+        "@style": "background-color:#D2F5DC",
+        "a": {
+          "@href": "colour-details.html#504&amp;filter=cf",
+          "#text": "504"
+        },
+        "span": {
+          "strong": "Waterfront Green",
+          "#text": "Designed for period key light and modern urban horizons."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1100 green jesper-kongshaug",
+        "@style": "background-color:#DCFFE6",
+        "a": {
+          "@href": "colour-details.html#730&amp;filter=cf",
+          "#text": "730"
+        },
+        "span": {
+          "strong": "Liberty Green",
+          "#text": "A good green for creating mystery and suspense."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1110 green last4-column a-column",
+        "@style": "background-color:#B9E6B9",
+        "a": {
+          "@href": "colour-details.html#242&amp;filter=cf",
+          "#text": "242"
+        },
+        "span": {
+          "strong": "LEE Fluorescent 4300 Kelvin",
+          "#text": "Converts tungsten to fluorescent light of 4300K (white)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1120 green last3-column flip-column a-column",
+        "@style": "background-color:#CDF5AF",
+        "a": {
+          "@href": "colour-details.html#243&amp;filter=cf",
+          "#text": "243"
+        },
+        "span": {
+          "strong": "LEE Fluorescent 3600 Kelvin",
+          "#text": "Converts tungsten to fluorescent light of 3600K (warm white)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1130 green last2-column flip-column a-column",
+        "@style": "background-color:#E6FCDC",
+        "a": {
+          "@href": "colour-details.html#213&amp;filter=cf",
+          "#text": "213"
+        },
+        "span": {
+          "strong": "White Flame Green",
+          "#text": "Corrects white flame carbon arcs by absorbing ultra violet."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1140 green last-column flip-column a-column",
+        "@style": "background-color:#F5FFE6",
+        "a": {
+          "@href": "colour-details.html#246&amp;filter=cf",
+          "#text": "246"
+        },
+        "span": {
+          "strong": "Quarter Plus Green",
+          "#text": "Used on daylight and tungsten lights for green cast with discharge lighting. Approximates CC075 green camera filter."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1150 green paule-constable first-column",
+        "@style": "background-color:#E1FAD7",
+        "a": {
+          "@href": "colour-details.html#731&amp;filter=cf",
+          "#text": "731"
+        },
+        "span": {
+          "strong": "Dirty Ice",
+          "#text": "Dirtier than 730 Liberty green, more orange, sympathetic with skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1160 green paule-constable",
+        "@style": "background-color:#EBF7CF",
+        "a": {
+          "@href": "colour-details.html#733&amp;filter=cf",
+          "#text": "733"
+        },
+        "span": {
+          "strong": "Damp Squib",
+          "#text": "A dirty green, reduces warmth. Good for cross lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1170 green",
+        "@style": "background-color:#F0FCD2",
+        "a": {
+          "@href": "colour-details.html#245&amp;filter=cf",
+          "#text": "245"
+        },
+        "span": {
+          "strong": "Half Plus Green",
+          "#text": "Used on daylight and tungsten lights for green cast with discharge lighting. Approximates CC15 green camera filter."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1180 green",
+        "@style": "background-color:#E6FABE",
+        "a": {
+          "@href": "colour-details.html#244&amp;filter=cf",
+          "#text": "244"
+        },
+        "span": {
+          "strong": "LEE Plus Green",
+          "#text": "Used on daylight and tungsten lights for green cast with discharge lighting. Approximates CC30 green camera filter."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1200 green",
+        "@style": "background-color:#DCFFA0",
+        "a": {
+          "@href": "colour-details.html#138&amp;filter=cf",
+          "#text": "138"
+        },
+        "span": {
+          "strong": "Pale Green",
+          "#text": "Good with gobos for wooded scenes."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1210 green",
+        "@style": "background-color:#DCFF64",
+        "a": {
+          "@href": "colour-details.html#088&amp;filter=cf",
+          "#text": "088"
+        },
+        "span": {
+          "strong": "Lime Green",
+          "#text": "Use with gobos for leafy glades. Good for pantomimes, giving a slightly sinister atmosphere."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1220 green tanya-burns",
+        "@style": "background-color:#E3FF5A",
+        "a": {
+          "@href": "colour-details.html#505&amp;filter=cf",
+          "#text": "505"
+        },
+        "span": {
+          "strong": "Sally Green",
+          "#text": "A fresh, light and airy summer green. 'Under tree canopy' light quality without 'pantomime countryside'."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1230 green andy-liddle",
+        "@style": "background-color:#AAFF00",
+        "a": {
+          "@href": "colour-details.html#738&amp;filter=cf",
+          "#text": "738"
+        },
+        "span": {
+          "strong": "JAS Green",
+          "#text": "A rich yellowish green. Useful as a concert stage wash where darker skin tone, costume and set are a consideration."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1240 green",
+        "@style": "background-color:#B4FF64",
+        "a": {
+          "@href": "colour-details.html#121&amp;filter=cf",
+          "#text": "121"
+        },
+        "span": {
+          "strong": "LEE Green",
+          "#text": "Good for dense foliage, tropical jungle or woodland effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1250 green",
+        "@style": "background-color:#78FA6E",
+        "a": {
+          "@href": "colour-details.html#122&amp;filter=cf",
+          "#text": "122"
+        },
+        "span": {
+          "strong": "Fern Green",
+          "#text": "Good for cycloramas and creates a great mood effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1260 green",
+        "@style": "background-color:#5ADC5A",
+        "a": {
+          "@href": "colour-details.html#089&amp;filter=cf",
+          "#text": "089"
+        },
+        "span": {
+          "strong": "Moss Green",
+          "#text": "Good mood creator. Used with gobos, creates a great foliage effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1270 green last4-column a-column",
+        "@style": "background-color:#4BC300",
+        "a": {
+          "@href": "colour-details.html#139&amp;filter=cf",
+          "#text": "139"
+        },
+        "span": {
+          "strong": "Primary Green",
+          "#text": "Good for set lighting and cyclorama lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1290 green last3-column flip-column a-column",
+        "@style": "background-color:#00BE00",
+        "a": {
+          "@href": "colour-details.html#090&amp;filter=cf",
+          "#text": "090"
+        },
+        "span": {
+          "strong": "Dark Yellow Green",
+          "#text": "Highlighting for forest effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1300 green dave-davey last2-column flip-column a-column",
+        "@style": "background-color:#00AA00",
+        "a": {
+          "@href": "colour-details.html#736&amp;filter=cf",
+          "#text": "736"
+        },
+        "span": {
+          "strong": "Twickenham Green",
+          "#text": "A powerful green with depth, for music or light entertainment."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1310 green henrik-hambro last-column flip-column a-column",
+        "@style": "background-color:#5A6E00",
+        "a": {
+          "@href": "colour-details.html#740&amp;filter=cf",
+          "#text": "740"
+        },
+        "span": {
+          "strong": "Aurora Borealis Green",
+          "#text": "Primary jungle colour. Removes some red and blue. Works best with daylight bulbs. Sodium lamp effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1320 yellow henrik-hambro first-column",
+        "@style": "background-color:#826400",
+        "a": {
+          "@href": "colour-details.html#741&amp;filter=cf",
+          "#text": "741"
+        },
+        "span": {
+          "strong": "Mustard Yellow",
+          "#text": "Spooky when used in haze. Removes some red and blue. Works best with daylight bulbs. Sodium lamp effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1330 yellow",
+        "@style": "background-color:#968200",
+        "a": {
+          "@href": "colour-details.html#642&amp;filter=cf",
+          "#text": "642"
+        },
+        "span": {
+          "strong": "Half Mustard Yellow",
+          "#text": "Half strength Sodium light effect, designed for use with daylight sources."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1340 yellow",
+        "@style": "background-color:#B4A000",
+        "a": {
+          "@href": "colour-details.html#643&amp;filter=cf",
+          "#text": "643"
+        },
+        "span": {
+          "strong": "Quarter Mustard Yellow",
+          "#text": "Quarter strength Sodium light effect, designed for use with daylight sources."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1350 yellow",
+        "@style": "background-color:#C8A862",
+        "a": {
+          "@href": "colour-details.html#650&amp;filter=cf",
+          "#text": "650"
+        },
+        "span": {
+          "strong": "Industry Sodium",
+          "#text": "Used on tungsten to blend with sodium light."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1360 orange mark-henderson",
+        "@style": "background-color:#6E3C00",
+        "a": {
+          "@href": "colour-details.html#746&amp;filter=cf",
+          "#text": "746"
+        },
+        "span": {
+          "strong": "Brown",
+          "#text": "To give a murky, dirty feel to tungsten. A darker, less pink chocolate."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1370 orange",
+        "@style": "background-color:#965500",
+        "a": {
+          "@href": "colour-details.html#653&amp;filter=cf",
+          "#text": "653"
+        },
+        "span": {
+          "strong": "LO Sodium",
+          "#text": "Used on tungsten to create a Low Pressure Sodium look."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1380 red lucy-carter",
+        "@style": "background-color:#963C00",
+        "a": {
+          "@href": "colour-details.html#511&amp;filter=cf",
+          "#text": "511"
+        },
+        "span": {
+          "strong": "Bacon Brown",
+          "#text": "An intense and warm deep brown. Recreates the pigment browns used by Francis Bacon in some of his paintings."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1390 orange paule-constable",
+        "@style": "background-color:#E19B50",
+        "a": {
+          "@href": "colour-details.html#742&amp;filter=cf",
+          "#text": "742"
+        },
+        "span": {
+          "strong": "Bram Brown",
+          "#text": "Dirtier than 156 Chocolate, good for skin tones. Dims well and doesn't go pink at low light levels."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1400 orange",
+        "@style": "background-color:#E6A550",
+        "a": {
+          "@href": "colour-details.html#208&amp;filter=cf",
+          "#text": "208"
+        },
+        "span": {
+          "strong": "Full CTO + .6 ND",
+          "#text": "Converts daylight (6500K) to tungsten (3200K) and reduces light 2 stops."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1410 orange",
+        "@style": "background-color:#F0B46B",
+        "a": {
+          "@href": "colour-details.html#207&amp;filter=cf",
+          "#text": "207"
+        },
+        "span": {
+          "strong": "Full CTO + .3 ND",
+          "#text": "Converts daylight (6500K) to tungsten (3200K) and reduces light 1 stop."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1420 orange",
+        "@style": "background-color:#EDBE83",
+        "a": {
+          "@href": "colour-details.html#232&amp;filter=cf",
+          "#text": "232"
+        },
+        "span": {
+          "strong": "Super Correction W.F. Green",
+          "#text": "Converts white flame arc to 3200K, for use with Tungsten film."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1430 yellow last4-column a-column",
+        "@style": "background-color:#DCBE8C",
+        "a": {
+          "@href": "colour-details.html#230&amp;filter=cf",
+          "#text": "230"
+        },
+        "span": {
+          "strong": "Super Correction LCT Yellow",
+          "#text": "Converts yellow carbon arc (of low colour temperature) to tungsten."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1450 orange last3-column flip-column a-column",
+        "@style": "background-color:#E1B48C",
+        "a": {
+          "@href": "colour-details.html#156&amp;filter=cf",
+          "#text": "156"
+        },
+        "span": {
+          "strong": "Chocolate",
+          "#text": "Warms light and reduces the intensity."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1490 orange last2-column flip-column a-column",
+        "@style": "background-color:#FCB292",
+        "a": {
+          "@href": "colour-details.html#237&amp;filter=cf",
+          "#text": "237"
+        },
+        "span": {
+          "strong": "CID (to Tungsten)",
+          "#text": "Converts CID to 3200K, for use with Tungsten film."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1500 orange kate-wilkins last-column flip-column a-column",
+        "@style": "background-color:#F5B99F",
+        "a": {
+          "@href": "colour-details.html#747&amp;filter=cf",
+          "#text": "747"
+        },
+        "span": {
+          "strong": "Easy White",
+          "#text": "Primarily developed for fluorescents to ensure warm, comfortable light and flattering skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1510 red first-column",
+        "@style": "background-color:#F5B9AA",
+        "a": {
+          "@href": "colour-details.html#238&amp;filter=cf",
+          "#text": "238"
+        },
+        "span": {
+          "strong": "CSI (to Tungsten)",
+          "#text": "Converts CSI to 3200K, for use with Tungsten film."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1520 orange",
+        "@style": "background-color:#FFD2C1",
+        "a": {
+          "@href": "colour-details.html#152&amp;filter=cf",
+          "#text": "152"
+        },
+        "span": {
+          "strong": "Pale Gold",
+          "#text": "Used with interior lighting to enhance skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1530 orange",
+        "@style": "background-color:#FCDED8",
+        "a": {
+          "@href": "colour-details.html#162&amp;filter=cf",
+          "#text": "162"
+        },
+        "span": {
+          "strong": "Bastard Amber",
+          "#text": "A warm white / warm wash. Good lamplight effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1540 orange tanya-burns",
+        "@style": "background-color:#FFDACE",
+        "a": {
+          "@href": "colour-details.html#506&amp;filter=cf",
+          "#text": "506"
+        },
+        "span": {
+          "strong": "Marlene",
+          "#text": "Flattering skin tone without the comedy 'pink'. For Marlene Dietrich who knew the importance of beautiful lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1550 orange",
+        "@style": "background-color:#FCD7B3",
+        "a": {
+          "@href": "colour-details.html#009&amp;filter=cf",
+          "#text": "009"
+        },
+        "span": {
+          "strong": "Pale Amber Gold",
+          "#text": "Perfect warm front light for any skin tone."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1560 orange",
+        "@style": "background-color:#FCD9B1",
+        "a": {
+          "@href": "colour-details.html#205&amp;filter=cf",
+          "#text": "205"
+        },
+        "span": {
+          "strong": "Half CTO",
+          "#text": "Converts daylight (6500K) to tungsten light (3800K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1570 yellow",
+        "@style": "background-color:#FCDCAD",
+        "a": {
+          "@href": "colour-details.html#442&amp;filter=cf",
+          "#text": "442"
+        },
+        "span": {
+          "strong": "Half CT Straw",
+          "#text": "Converts 6500K to 4300K - daylight to tungsten light with a yellow bias."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1580 yellow",
+        "@style": "background-color:#FCD89B",
+        "a": {
+          "@href": "colour-details.html#013&amp;filter=cf",
+          "#text": "013"
+        },
+        "span": {
+          "strong": "Straw Tint",
+          "#text": "Warmer than other straw colours. A good sunlight effect when used in contrast with ambers and blues."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1590 yellow david-hersey",
+        "@style": "background-color:#FCE6B4",
+        "a": {
+          "@href": "colour-details.html#764&amp;filter=cf",
+          "#text": "764"
+        },
+        "span": {
+          "strong": "Sun Colour Straw",
+          "#text": "Adds warmth, bright sunlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1600 yellow",
+        "@style": "background-color:#FCEACC",
+        "a": {
+          "@href": "colour-details.html#103&amp;filter=cf",
+          "#text": "103"
+        },
+        "span": {
+          "strong": "Straw",
+          "#text": "Pale sunlight through a window and a good warm winter effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1610 orange",
+        "@style": "background-color:#FCEAD6",
+        "a": {
+          "@href": "colour-details.html#206&amp;filter=cf",
+          "#text": "206"
+        },
+        "span": {
+          "strong": "Quarter CTO",
+          "#text": "Converts daylight (6500K) to tungsten light (4600K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1620 yellow last4-column a-column",
+        "@style": "background-color:#FCEFDB",
+        "a": {
+          "@href": "colour-details.html#443&amp;filter=cf",
+          "#text": "443"
+        },
+        "span": {
+          "strong": "Quarter CT Straw",
+          "#text": "Converts 6500K to 5100K - daylight to tungsten light with a yellow bias."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1630 yellow david-hersey last3-column flip-column a-column",
+        "@style": "background-color:#FCF0D2",
+        "a": {
+          "@href": "colour-details.html#763&amp;filter=cf",
+          "#text": "763"
+        },
+        "span": {
+          "strong": "Wheat",
+          "#text": "Adds warmth, sunlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1640 yellow last2-column flip-column a-column",
+        "@style": "background-color:#FFFAD7",
+        "a": {
+          "@href": "colour-details.html#212&amp;filter=cf",
+          "#text": "212"
+        },
+        "span": {
+          "strong": "LCT Yellow (Y1)",
+          "#text": "Reduces colour temperature of low carbon arcs to 3200K."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1650 yellow last-column flip-column a-column",
+        "@style": "background-color:#FAFAD2",
+        "a": {
+          "@href": "colour-details.html#007&amp;filter=cf",
+          "#text": "007"
+        },
+        "span": {
+          "strong": "Pale Yellow",
+          "#text": "Sunlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1660 yellow jesper-kongshaug first-column",
+        "@style": "background-color:#FFE591",
+        "a": {
+          "@href": "colour-details.html#765&amp;filter=cf",
+          "#text": "765"
+        },
+        "span": {
+          "strong": "LEE Yellow",
+          "#text": "Useful for producing a strong sunlight effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1670 yellow",
+        "@style": "background-color:#FFDC5F",
+        "a": {
+          "@href": "colour-details.html#102&amp;filter=cf",
+          "#text": "102"
+        },
+        "span": {
+          "strong": "Light Amber",
+          "#text": "A warm yellow colour. Great for candlelight or warm bright sunlight effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1680 yellow declan-randall",
+        "@style": "background-color:#e3ca3c",
+        "a": {
+          "@href": "colour-details.html#550&amp;filter=cf",
+          "#text": "550"
+        },
+        "span": {
+          "strong": "ALD Gold",
+          "#text": "A 'proper' gold to celebrate the 50th Anniversary of the ALD. Maintains richness as it dims, becoming more molten."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1690 yellow lucy-carter",
+        "@style": "background-color:#f5ff7d",
+        "a": {
+          "@href": "colour-details.html#513&amp;filter=cf",
+          "#text": "513"
+        },
+        "span": {
+          "strong": "Ice and a Slice",
+          "#text": "A pale acidic spring yellow. For a sharp white wash."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1700 yellow lucy-carter",
+        "@style": "background-color:#f5ff5a",
+        "a": {
+          "@href": "colour-details.html#514&amp;filter=cf",
+          "#text": "514"
+        },
+        "span": {
+          "strong": "Double G&T",
+          "#text": "Double 513, when only a double will do. Has a more acidic bite."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1710 yellow",
+        "@style": "background-color:#F5FF00",
+        "a": {
+          "@href": "colour-details.html#100&amp;filter=cf",
+          "#text": "100"
+        },
+        "span": {
+          "strong": "Spring Yellow",
+          "#text": "A sunlight wash - use with gobos, disco and dark skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1720 yellow",
+        "@style": "background-color:#FFFF00",
+        "a": {
+          "@href": "colour-details.html#010&amp;filter=cf",
+          "#text": "010"
+        },
+        "span": {
+          "strong": "Medium Yellow",
+          "#text": "A pure bright yellow. Great for special effects and accents. Use with caution in acting areas."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1730 yellow",
+        "@style": "background-color:#FFF500",
+        "a": {
+          "@href": "colour-details.html#101&amp;filter=cf",
+          "#text": "101"
+        },
+        "span": {
+          "strong": "Yellow",
+          "#text": "Sunlight and window effect - pleasant in acting areas."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1740 yellow david-whitehead",
+        "@style": "background-color:#FFE600",
+        "a": {
+          "@href": "colour-details.html#767&amp;filter=cf",
+          "#text": "767"
+        },
+        "span": {
+          "strong": "Oklahoma Yellow",
+          "#text": "A rich blend of bright sunshine and warm ochre overtones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1750 yellow",
+        "@style": "background-color:#FFDC00",
+        "a": {
+          "@href": "colour-details.html#104&amp;filter=cf",
+          "#text": "104"
+        },
+        "span": {
+          "strong": "Deep Amber",
+          "#text": "Good for sunlight effect, accents and side light. Be careful of skin tones under the reddish tint of this colour."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1760 yellow",
+        "@style": "background-color:#FFCD00",
+        "a": {
+          "@href": "colour-details.html#015&amp;filter=cf",
+          "#text": "015"
+        },
+        "span": {
+          "strong": "Deep Straw",
+          "#text": "A warm amber light. Good for effects such as candlelight and fire."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1770 yellow paule-constable last4-column a-column",
+        "@style": "background-color:#FFC600",
+        "a": {
+          "@href": "colour-details.html#768&amp;filter=cf",
+          "#text": "768"
+        },
+        "span": {
+          "strong": "Egg Yolk Yellow",
+          "#text": "A bold strong chemical yellow, less orange/red than 179 Chrome orange."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1780 orange last3-column flip-column a-column",
+        "@style": "background-color:#FFBE00",
+        "a": {
+          "@href": "colour-details.html#179&amp;filter=cf",
+          "#text": "179"
+        },
+        "span": {
+          "strong": "Chrome Orange",
+          "#text": "A combination of 1/2 CTO and double strength 104, perfect for sunlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-1790 yellow last2-column flip-column a-column",
+        "@style": "background-color:#FFBE55",
+        "a": {
+          "@href": "colour-details.html#020&amp;filter=cf",
+          "#text": "020"
+        },
+        "span": {
+          "strong": "Medium Amber",
+          "#text": "Good for afternoon sunlight and candlelight. Also great for side lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1800 yellow dave-davey last-column flip-column a-column",
+        "@style": "background-color:#FFB400",
+        "a": {
+          "@href": "colour-details.html#770&amp;filter=cf",
+          "#text": "770"
+        },
+        "span": {
+          "strong": "Burnt Yellow",
+          "#text": "A colour that feels warm and dense on camera, a balance between 179 and 105."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1810 orange first-column",
+        "@style": "background-color:#FFA000",
+        "a": {
+          "@href": "colour-details.html#105&amp;filter=cf",
+          "#text": "105"
+        },
+        "span": {
+          "strong": "Orange",
+          "#text": "Good for light entertainment and functions. Creates a good fire effect when used with 106 or 104."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1830 orange mark-henderson",
+        "@style": "background-color:#F58200",
+        "a": {
+          "@href": "colour-details.html#777&amp;filter=cf",
+          "#text": "777"
+        },
+        "span": {
+          "strong": "Rust",
+          "#text": "A vivid rust colour effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1840 orange lucy-carter",
+        "@style": "background-color:#cc6100",
+        "a": {
+          "@href": "colour-details.html#512&amp;filter=cf",
+          "#text": "512"
+        },
+        "span": {
+          "strong": "Amber Delight",
+          "#text": "A dark dirty orange."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1850 orange",
+        "@style": "background-color:#FF8246",
+        "a": {
+          "@href": "colour-details.html#652&amp;filter=cf",
+          "#text": "652"
+        },
+        "span": {
+          "strong": "Urban Sodium",
+          "#text": "Used on tungsten to create the orange glow associated with Sodium light."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1860 orange",
+        "@style": "background-color:#FFA055",
+        "a": {
+          "@href": "colour-details.html#287&amp;filter=cf",
+          "#text": "287"
+        },
+        "span": {
+          "strong": "Double CTO",
+          "#text": "Converts daylight (6500K) to tungsten (2147K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1870 orange",
+        "@style": "background-color:#FFB464",
+        "a": {
+          "@href": "colour-details.html#286&amp;filter=cf",
+          "#text": "286"
+        },
+        "span": {
+          "strong": "One and a Half CTO",
+          "#text": "Converts daylight (6500K) to tungsten (2507K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1880 orange",
+        "@style": "background-color:#FAC387",
+        "a": {
+          "@href": "colour-details.html#204&amp;filter=cf",
+          "#text": "204"
+        },
+        "span": {
+          "strong": "Full CTO",
+          "#text": "Converts daylight (6500K) to tungsten light (3200K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1890 orange",
+        "@style": "background-color:#FAC084",
+        "a": {
+          "@href": "colour-details.html#441&amp;filter=cf",
+          "#text": "441"
+        },
+        "span": {
+          "strong": "Full CT Straw",
+          "#text": "Converts 6500K to 3200K - daylight to tungsten light with a yellow bias."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1900 yellow dave-davey",
+        "@style": "background-color:#F8C882",
+        "a": {
+          "@href": "colour-details.html#744&amp;filter=cf",
+          "#text": "744"
+        },
+        "span": {
+          "strong": "Dirty White",
+          "#text": "Correct a daylight source to an off white tungsten source. Wwith tungsten provides a dingy smoky bar effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1910 orange",
+        "@style": "background-color:#FCCD94",
+        "a": {
+          "@href": "colour-details.html#285&amp;filter=cf",
+          "#text": "285"
+        },
+        "span": {
+          "strong": "Three Quarter CTO",
+          "#text": "Converts daylight (6500K) to tungsten light (3600K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1920 orange",
+        "@style": "background-color:#FAC795",
+        "a": {
+          "@href": "colour-details.html#236&amp;filter=cf",
+          "#text": "236"
+        },
+        "span": {
+          "strong": "HMI (to Tungsten)",
+          "#text": "Converts HMI to 3200K, for use with Tungsten film."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1930 orange last4-column a-column",
+        "@style": "background-color:#FFC295",
+        "a": {
+          "@href": "colour-details.html#604&amp;filter=cf",
+          "#text": "604"
+        },
+        "span": {
+          "strong": "Full CT Eight Five",
+          "#text": "Converts Daylight (6500K) to Tungsten light (3200K) with a red bias. Orange effect similar to sodium when used on Tungsten."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1940 orange last3-column flip-column a-column",
+        "@style": "background-color:#FF9B5F",
+        "a": {
+          "@href": "colour-details.html#651&amp;filter=cf",
+          "#text": "651"
+        },
+        "span": {
+          "strong": "HI Sodium",
+          "#text": "Used on tungsten to create a High Pressure Sodium look."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1950 orange last2-column flip-column a-column",
+        "@style": "background-color:#E68C64",
+        "a": {
+          "@href": "colour-details.html#017&amp;filter=cf",
+          "#text": "017"
+        },
+        "span": {
+          "strong": "Surprise Peach",
+          "#text": "Good for skin tones and creating a moody lighting effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1960 orange last-column flip-column a-column",
+        "@style": "background-color:#FAA873",
+        "a": {
+          "@href": "colour-details.html#134&amp;filter=cf",
+          "#text": "134"
+        },
+        "span": {
+          "strong": "Golden Amber",
+          "#text": "Great for emulating a sunset. Also good for side lighting and cyclorama lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1970 orange first-column",
+        "@style": "background-color:#FCB98C",
+        "a": {
+          "@href": "colour-details.html#147&amp;filter=cf",
+          "#text": "147"
+        },
+        "span": {
+          "strong": "Apricot",
+          "#text": "Good for sunrise, sunset and lamplight effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1980 orange david-hersey",
+        "@style": "background-color:#FCBE9B",
+        "a": {
+          "@href": "colour-details.html#776&amp;filter=cf",
+          "#text": "776"
+        },
+        "span": {
+          "strong": "Nectarine",
+          "#text": "Romantic sunset. Period pieces."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-1990 orange henrik-hambro",
+        "@style": "background-color:#FCC5B2",
+        "a": {
+          "@href": "colour-details.html#773&amp;filter=cf",
+          "#text": "773"
+        },
+        "span": {
+          "strong": "Cardbox Amber",
+          "#text": "Warm tint for skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2000 red",
+        "@style": "background-color:#FCBEA9",
+        "a": {
+          "@href": "colour-details.html#108&amp;filter=cf",
+          "#text": "108"
+        },
+        "span": {
+          "strong": "English Rose",
+          "#text": "Warm tint wash. Dark flesh tones and softer skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-2010 red",
+        "@style": "background-color:#FC9B80",
+        "a": {
+          "@href": "colour-details.html#008&amp;filter=cf",
+          "#text": "008"
+        },
+        "span": {
+          "strong": "Dark Salmon",
+          "#text": "Enhances dark skin tones, sunsets, ballroom sets."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2030 red david-hersey",
+        "@style": "background-color:#FC9885",
+        "a": {
+          "@href": "colour-details.html#779&amp;filter=cf",
+          "#text": "779"
+        },
+        "span": {
+          "strong": "Bastard Pink",
+          "#text": "Deep sunset. Useful on dark skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2050 orange",
+        "@style": "background-color:#FF8700",
+        "a": {
+          "@href": "colour-details.html#158&amp;filter=cf",
+          "#text": "158"
+        },
+        "span": {
+          "strong": "Deep Orange",
+          "#text": "A great fire effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-2060 orange",
+        "@style": "background-color:#FF8C32",
+        "a": {
+          "@href": "colour-details.html#021&amp;filter=cf",
+          "#text": "021"
+        },
+        "span": {
+          "strong": "Gold Amber",
+          "#text": "Great for sunsets, cyclorama lighting and fire effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-2070 orange patrick-woodroffe",
+        "@style": "background-color:#FF7600",
+        "a": {
+          "@href": "colour-details.html#778&amp;filter=cf",
+          "#text": "778"
+        },
+        "span": {
+          "strong": "Millennium Gold",
+          "#text": "Useful for lighting architecture. Produces a rich amber on tungsten, or a much cooler effect on a HMI lamp."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2090 orange peter-fisker",
+        "@style": "background-color:#FF6F00",
+        "a": {
+          "@href": "colour-details.html#780&amp;filter=cf",
+          "#text": "780"
+        },
+        "span": {
+          "strong": "AS Golden Amber",
+          "#text": "Between 778 Millennium Gold and 135 Deep Golden Amber, but less red. A strong colour good for backlighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-2100 orange",
+        "@style": "background-color:#FF6900",
+        "a": {
+          "@href": "colour-details.html#022&amp;filter=cf",
+          "#text": "022"
+        },
+        "span": {
+          "strong": "Dark Amber",
+          "#text": "A good backlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2120 orange last4-column a-column",
+        "@style": "background-color:#FF5F00",
+        "a": {
+          "@href": "colour-details.html#135&amp;filter=cf",
+          "#text": "135"
+        },
+        "span": {
+          "strong": "Deep Golden Amber",
+          "#text": "A great fire effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2130 orange andy-liddle last3-column flip-column a-column",
+        "@style": "background-color:#FF5000",
+        "a": {
+          "@href": "colour-details.html#781&amp;filter=cf",
+          "#text": "781"
+        },
+        "span": {
+          "strong": "Terry Red",
+          "#text": "A strong amber red that works well when used against deep reds and dark ambers, in wash combinations and on cycloramas."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2131 red last2-column flip-column a-column",
+        "@style": "background-color:#FF6E46",
+        "a": {
+          "@href": "colour-details.html#025&amp;filter=cf",
+          "#text": "025"
+        },
+        "span": {
+          "strong": "Sunset Red",
+          "#text": "A good warm stage wash, TV studio wash or sunset effect."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2140 orange tanya-burns last-column flip-column a-column",
+        "@style": "background-color:#F85000",
+        "a": {
+          "@href": "colour-details.html#507&amp;filter=cf",
+          "#text": "507"
+        },
+        "span": {
+          "strong": "Madge",
+          "#text": "Madge' is short for Imagination. Denser, saturated orange version of 135 avoiding 'pinky red'."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2150 orange first-column",
+        "@style": "background-color:#FF4600",
+        "a": {
+          "@href": "colour-details.html#019&amp;filter=cf",
+          "#text": "019"
+        },
+        "span": {
+          "strong": "Fire",
+          "#text": "A strong red/amber. Great for fire effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2160 red",
+        "@style": "background-color:#FF3200",
+        "a": {
+          "@href": "colour-details.html#164&amp;filter=cf",
+          "#text": "164"
+        },
+        "span": {
+          "strong": "Flame Red",
+          "#text": "Great for fire effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2180 red",
+        "@style": "background-color:#F50000",
+        "a": {
+          "@href": "colour-details.html#182&amp;filter=cf",
+          "#text": "182"
+        },
+        "span": {
+          "strong": "Light Red",
+          "#text": "Good for theatre and television effect lighting as well as cycloramas."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2190 red",
+        "@style": "background-color:#F00032",
+        "a": {
+          "@href": "colour-details.html#106&amp;filter=cf",
+          "#text": "106"
+        },
+        "span": {
+          "strong": "Primary Red",
+          "#text": "Strong red effect. Good with cyclorama lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2220 red mark-henderson",
+        "@style": "background-color:#AA3C32",
+        "a": {
+          "@href": "colour-details.html#789&amp;filter=cf",
+          "#text": "789"
+        },
+        "span": {
+          "strong": "Blood Red",
+          "#text": "For a deep saturated red effect. Used when a strong vivid red effect is required."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2230 red henrik-hambro",
+        "@style": "background-color:#B9003C",
+        "a": {
+          "@href": "colour-details.html#787&amp;filter=cf",
+          "#text": "787"
+        },
+        "span": {
+          "strong": "Marius Red",
+          "#text": "Nice deep full red. Rose leaf colour."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-2240 red",
+        "@style": "background-color:#C8003C",
+        "a": {
+          "@href": "colour-details.html#027&amp;filter=cf",
+          "#text": "027"
+        },
+        "span": {
+          "strong": "Medium Red",
+          "#text": "Good for cyclorama lighting, side lighting and footlights. Also good for colour mixing."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2250 red",
+        "@style": "background-color:#E1003C",
+        "a": {
+          "@href": "colour-details.html#029&amp;filter=cf",
+          "#text": "029"
+        },
+        "span": {
+          "strong": "Plasa Red",
+          "#text": "Good for fire effects, musicals and cycloramas."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-2260 red",
+        "@style": "background-color:#E6003C",
+        "a": {
+          "@href": "colour-details.html#026&amp;filter=cf",
+          "#text": "026"
+        },
+        "span": {
+          "strong": "Bright Red",
+          "#text": "A vibrant red, good for cyclorama lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-2280 red",
+        "@style": "background-color:#FF5A64",
+        "a": {
+          "@href": "colour-details.html#024&amp;filter=cf",
+          "#text": "024"
+        },
+        "span": {
+          "strong": "Scarlet",
+          "#text": "Great for pantomimes, ballroom sets and fire effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2290 red",
+        "@style": "background-color:#FF92A3",
+        "a": {
+          "@href": "colour-details.html#157&amp;filter=cf",
+          "#text": "157"
+        },
+        "span": {
+          "strong": "Pink",
+          "#text": "Great for dance sequences (useful for softening white costumes without affecting skin tones)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2300 red last4-column a-column",
+        "@style": "background-color:#FFA5AF",
+        "a": {
+          "@href": "colour-details.html#107&amp;filter=cf",
+          "#text": "107"
+        },
+        "span": {
+          "strong": "Light Rose",
+          "#text": "Good for general washes and followspots."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2310 red last3-column flip-column a-column",
+        "@style": "background-color:#FFB2AF",
+        "a": {
+          "@href": "colour-details.html#109&amp;filter=cf",
+          "#text": "109"
+        },
+        "span": {
+          "strong": "Light Salmon",
+          "#text": "Interesting backlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2320 red last2-column flip-column a-column",
+        "@style": "background-color:#FFAAA0",
+        "a": {
+          "@href": "colour-details.html#176&amp;filter=cf",
+          "#text": "176"
+        },
+        "span": {
+          "strong": "Loving Amber",
+          "#text": "Used for backlighting and general areas. Great for sunrise effect and warming skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2330 red durham-marenghi last-column flip-column a-column",
+        "@style": "background-color:#FFB4A5",
+        "a": {
+          "@href": "colour-details.html#790&amp;filter=cf",
+          "#text": "790"
+        },
+        "span": {
+          "strong": "Moroccan Pink",
+          "#text": "A rich natural pink, good for producing late afternoon sun effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-2400 red first-column",
+        "@style": "background-color:#FFA0B9",
+        "a": {
+          "@href": "colour-details.html#036&amp;filter=cf",
+          "#text": "036"
+        },
+        "span": {
+          "strong": "Medium Pink",
+          "#text": "Good for general washes and side lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2410 red",
+        "@style": "background-color:#FF8CB4",
+        "a": {
+          "@href": "colour-details.html#192&amp;filter=cf",
+          "#text": "192"
+        },
+        "span": {
+          "strong": "Flesh Pink",
+          "#text": "Good for musical and pantomime key lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2420 red",
+        "@style": "background-color:#FF8CBE",
+        "a": {
+          "@href": "colour-details.html#111&amp;filter=cf",
+          "#text": "111"
+        },
+        "span": {
+          "strong": "Dark Pink",
+          "#text": "Good for cyclorama lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2429 red david-whitehead",
+        "@style": "background-color:#FFAFDC",
+        "a": {
+          "@href": "colour-details.html#794&amp;filter=cf",
+          "#text": "794"
+        },
+        "span": {
+          "strong": "Pretty 'n Pink",
+          "#text": "Creates warm and soft effects."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2430 red",
+        "@style": "background-color:#FF78DC",
+        "a": {
+          "@href": "colour-details.html#002&amp;filter=cf",
+          "#text": "002"
+        },
+        "span": {
+          "strong": "Rose Pink",
+          "#text": "Strong pink wash, good for cycloramas."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2440 red",
+        "@style": "background-color:#FF64C8",
+        "a": {
+          "@href": "colour-details.html#328&amp;filter=cf",
+          "#text": "328"
+        },
+        "span": {
+          "strong": "Follies Pink",
+          "#text": "Great for dramatic stage lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2450 red david-whitehead",
+        "@style": "background-color:#FA46C8",
+        "a": {
+          "@href": "colour-details.html#795&amp;filter=cf",
+          "#text": "795"
+        },
+        "span": {
+          "strong": "Magical Magenta",
+          "#text": "Rich mixture of red and pinks."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2460 red",
+        "@style": "background-color:#FF50B4",
+        "a": {
+          "@href": "colour-details.html#128&amp;filter=cf",
+          "#text": "128"
+        },
+        "span": {
+          "strong": "Bright Pink",
+          "#text": "Created for use as backlighting and side lighting. Great for musicals."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2470 red patrick-woodroffe",
+        "@style": "background-color:#FF3CA0",
+        "a": {
+          "@href": "colour-details.html#793&amp;filter=cf",
+          "#text": "793"
+        },
+        "span": {
+          "strong": "Vanity Fair",
+          "#text": "A rich glamorous pink, good for use on special occasions."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2480 red",
+        "@style": "background-color:#FF3787",
+        "a": {
+          "@href": "colour-details.html#332&amp;filter=cf",
+          "#text": "332"
+        },
+        "span": {
+          "strong": "Special Rose Pink",
+          "#text": "Great for Pantomimes, light entertainment etc. A good strong stage wash."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2500 red",
+        "@style": "background-color:#FF507D",
+        "a": {
+          "@href": "colour-details.html#148&amp;filter=cf",
+          "#text": "148"
+        },
+        "span": {
+          "strong": "Bright Rose",
+          "#text": "Great for fire effects and musicals."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-2510 red last4-column a-column",
+        "@style": "background-color:#DC005A",
+        "a": {
+          "@href": "colour-details.html#046&amp;filter=cf",
+          "#text": "046"
+        },
+        "span": {
+          "strong": "Dark Magenta",
+          "#text": "A very strong pink, good for backlighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2520 red last3-column flip-column a-column",
+        "@style": "background-color:#FF0064",
+        "a": {
+          "@href": "colour-details.html#113&amp;filter=cf",
+          "#text": "113"
+        },
+        "span": {
+          "strong": "Magenta",
+          "#text": "Very strong - used carefully for small areas on set."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2540 red last2-column flip-column a-column",
+        "@style": "background-color:#E16273",
+        "a": {
+          "@href": "colour-details.html#127&amp;filter=cf",
+          "#text": "127"
+        },
+        "span": {
+          "strong": "Smokey Pink",
+          "#text": "Good for cycloramas, set lighting and discos."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2550 red chris-davey last-column flip-column a-column",
+        "@style": "background-color:#E96785",
+        "a": {
+          "@href": "colour-details.html#748&amp;filter=cf",
+          "#text": "748"
+        },
+        "span": {
+          "strong": "Seedy Pink",
+          "#text": "A smoky pink. Good for tungsten on skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2551 red first-column",
+        "@style": "background-color:#FFB4C8",
+        "a": {
+          "@href": "colour-details.html#110&amp;filter=cf",
+          "#text": "110"
+        },
+        "span": {
+          "strong": "Middle Rose",
+          "#text": "Pleasing effects for theatrical lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2552 red",
+        "@style": "background-color:#FAC3D7",
+        "a": {
+          "@href": "colour-details.html#247&amp;filter=cf",
+          "#text": "247"
+        },
+        "span": {
+          "strong": "LEE Minus Green",
+          "#text": "Eliminates unwanted green cast created by discharge light sources on film. Approximates CC30 magenta camera filter."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-2553 red",
+        "@style": "background-color:#FFC8D2",
+        "a": {
+          "@href": "colour-details.html#035&amp;filter=cf",
+          "#text": "035"
+        },
+        "span": {
+          "strong": "Light Pink",
+          "#text": "A warm wash good for musical reviews."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2554 red",
+        "@style": "background-color:#FFC8C8",
+        "a": {
+          "@href": "colour-details.html#153&amp;filter=cf",
+          "#text": "153"
+        },
+        "span": {
+          "strong": "Pale Salmon",
+          "#text": "Good for backlighting in conjunction with white light."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch ht v-2560 orange",
+        "@style": "background-color:#FFC8B4",
+        "a": {
+          "@href": "colour-details.html#004&amp;filter=cf",
+          "#text": "004"
+        },
+        "span": {
+          "strong": "Medium Bastard Amber",
+          "#text": "Naturally enhances skin tones."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2570 red",
+        "@style": "background-color:#FFCDC3",
+        "a": {
+          "@href": "colour-details.html#151&amp;filter=cf",
+          "#text": "151"
+        },
+        "span": {
+          "strong": "Gold Tint",
+          "#text": "A pleasing effect for theatrical lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2571 red",
+        "@style": "background-color:#FFD5CF",
+        "a": {
+          "@href": "colour-details.html#154&amp;filter=cf",
+          "#text": "154"
+        },
+        "span": {
+          "strong": "Pale Rose",
+          "#text": "A pleasing effect for theatrical lighting. A good lamplight effect."
+        },
+        "div": {
+          "@class": "add-color-box",
+          "@style": "margin-top: 20px;"
+        }
+      },
+      {
+        "@class": "swatch  v-2580 red",
+        "@style": "background-color:#FFE2E4",
+        "a": {
+          "@href": "colour-details.html#248&amp;filter=cf",
+          "#text": "248"
+        },
+        "span": {
+          "strong": "Half Minus Green",
+          "#text": "Eliminates unwanted green cast created by discharge light sources on film. Approx. CC15 magenta camera filter."
+        },
+        "div": {
+          "@class": "add-color-box",
+          "@style": "margin-top: 20px;"
+        }
+      },
+      {
+        "@class": "swatch  v-2590 red",
+        "@style": "background-color:#FFECF0",
+        "a": {
+          "@href": "colour-details.html#249&amp;filter=cf",
+          "#text": "249"
+        },
+        "span": {
+          "strong": "Quarter Minus Green",
+          "#text": "Eliminates unwanted green cast created by discharge light sources on film. Approx. CC075 magenta camera filter."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2600 red",
+        "@style": "background-color:#FFF3F7",
+        "a": {
+          "@href": "colour-details.html#279&amp;filter=cf",
+          "#text": "279"
+        },
+        "span": {
+          "strong": "Eighth Minus Green",
+          "#text": "Provides very slight correction. Used on lighting to eliminate unwanted green cast created by discharge light sources on film."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2610 violet",
+        "@style": "background-color:#FAF0FA",
+        "a": {
+          "@href": "colour-details.html#003&amp;filter=cf",
+          "#text": "003"
+        },
+        "span": {
+          "strong": "Lavender Tint",
+          "#text": "Subtle cool wash for stage and studio lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2620 blue last4-column a-column",
+        "@style": "background-color:#F5FFFF",
+        "a": {
+          "@href": "colour-details.html#218&amp;filter=cf",
+          "#text": "218"
+        },
+        "span": {
+          "strong": "Eighth CTB",
+          "#text": "Converts tungsten (3200K) to daylight (3400K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2630 green last3-column flip-column a-column",
+        "@style": "background-color:#F3FFF3",
+        "a": {
+          "@href": "colour-details.html#278&amp;filter=cf",
+          "#text": "278"
+        },
+        "span": {
+          "strong": "Eighth Plus Green",
+          "#text": "Used on daylight and tungsten to provide very slight green cast when used in conjunction with discharge lighting."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2640 yellow last2-column flip-column a-column",
+        "@style": "background-color:#FFFAEB",
+        "a": {
+          "@href": "colour-details.html#159&amp;filter=cf",
+          "#text": "159"
+        },
+        "span": {
+          "strong": "No Colour Straw",
+          "#text": "A warm effect. Sunlight."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2650 orange last-column flip-column a-column",
+        "@style": "background-color:#FFF3E8",
+        "a": {
+          "@href": "colour-details.html#223&amp;filter=cf",
+          "#text": "223"
+        },
+        "span": {
+          "strong": "Eighth CTO",
+          "#text": "Converts daylight (6500K) to tungsten light (5550K)."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2660 yellow first-column",
+        "@style": "background-color:#FAF3E8",
+        "a": {
+          "@href": "colour-details.html#444&amp;filter=cf",
+          "#text": "444"
+        },
+        "span": {
+          "strong": "Eighth CT Straw",
+          "#text": "Converts 6500K to 5700K - daylight to tungsten light with a yellow bias."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2668 blue declan-randall",
+        "@style": "background-color:#a5a5aa",
+        "a": {
+          "@href": "colour-details.html#602&amp;filter=cf",
+          "#text": "602"
+        },
+        "span": {
+          "strong": "Platinum",
+          "#text": "At full power produces dazzling grey light with slight red bias, when dimmed warms up quickly to a useful brown."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2669  declan-randall",
+        "@style": "background-color:#c8cdcd",
+        "a": {
+          "@href": "colour-details.html#603&amp;filter=cf",
+          "#text": "603"
+        },
+        "span": {
+          "strong": "Moonlight White",
+          "#text": "Pleasant white light at full power, dims down to a warm colour and at low intensities has more yellow than red."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      },
+      {
+        "@class": "swatch  v-2670",
+        "@style": "background-color:#FFFFFF",
+        "a": {
+          "@href": "colour-details.html#130&amp;filter=cf",
+          "#text": "130"
+        },
+        "span": {
+          "strong": "Clear",
+          "#text": "Used in animation and projection work."
+        },
+        "div": {
+          "@class": "add-color-box"
+        }
+      }
+    ],
+    "#comment": ""
+  }
+}

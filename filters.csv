@@ -1,0 +1,389 @@
+number,rgb,name,description
+L048,"[230, 110, 175]",Rose Purple,Good for emulating evening. Great backlight.
+L797,"[175, 0, 150]",Deep Purple,Used in musical performances for general colour washes and set lighting.
+L049,"[190, 0, 145]",Medium Purple,"A strong cheerful glow, good for cycloramas and pantomimes."
+L126,"[190, 0, 155]",Mauve,Good for backlighting. Dark magenta / purple adds drama and mood.
+L798,"[160, 0, 190]",Chrysalis Pink,A new deeper lavender with a dash of rose blusher.
+L701,"[180, 90, 220]",Provence,Colour of the Lavender fields of the south of France. A redder version of 180 for cameras balanced to tungsten.
+L345,"[205, 110, 215]",Fuchsia Pink,"Good for musicals, pantomimes and sultry scenes."
+L703,"[210, 130, 220]",Cold Lavender,A colour that would be great for front / key lighting and that works well with 152 Pale Gold.
+L052,"[230, 170, 250]",Light Lavender,Good for general areas and side lights. Great for a basic followspot colour as well as an excellent backlight.
+L704,"[240, 170, 250]",Lily,A cool lavender with little red content. Good for romantic evening exteriors.
+L170,"[230, 170, 220]",Deep Lavender,"Great for set lighting, discos and theatres."
+L136,"[240, 190, 230]",Pale Lavender,Great for pantomimes and ballroom sets. Also enhances dark skin tones in follow spots.
+L169,"[250, 220, 240]",Lilac Tint,A pale lavender. Good for almost white light with a cool tint.
+L702,"[230, 210, 240]",Special Pale Lavender,"Cold lavender with a full tungsten source, but warms as the source is dimmed. Good as a fill for slow sunset fades."
+L137,"[200, 180, 230]",Special Lavender,Good for moonlight and musical / romantic scenes. Enhances skin tones.
+L194,"[190, 140, 240]",Surprise Pink,Good for musicals.
+L058,"[180, 110, 240]",Lavender,An excellent backlight that creates a new dimension.
+L180,"[160, 100, 230]",Dark Lavender,A pleasing effect for theatrical lighting and backlighting.
+L343,"[140, 0, 210]",Special Medium Lavender,Good for theatre and T.V. effect lighting and backlighting.
+L700,"[125, 0, 205]",Perfect Lavender,"In-between 170 Deep Lavender and 345 Fuchsia Pink, and is good for backlighting and romantic atmospheres."
+L181,"[80, 0, 170]",Congo Blue,Looks like black light when used with a fluorescent source. Great effect colour. Very saturated.
+L707,"[100, 0, 180]",Ultimate Violet,Used in musical performances for general colour washes and set lighting.
+L706,"[110, 70, 200]",King Fals Lavender,A cold lavender.
+L709,"[200, 200, 250]",Electric Lilac,"Provides good colour rendering which creates a sharp edge, adding a touch of drama."
+L142,"[170, 170, 240]",Pale Violet,Great Moonlight effect. Good for cyclorama lighting and highlighting foliage on plants.
+L199,"[100, 100, 230]",Regal Blue,A deep lavender blue that strongly enhances skin tones.
+L508,"[90, 70, 195]",Midnight Maya,"A rich, sultry blue. Like Congo Blue, but greater light transmission so maintenance friendly - fewer gel changes."
+L799,"[60, 0, 180]",Special KH Lavender,A deep lavender that brings out the UV.
+L071,"[0, 0, 180]",Tokyo Blue,"A deep blue, used for midnight scenes and cyclorama lighting."
+L713,"[0, 60, 160]",J.Winter Blue,Very dark blue with high UV content. Good in high concentrations for a moody and powerful stage colour wash.
+L710,"[140, 160, 240]",Spir Special Blue,A cool industrial blue.
+L198,"[100, 120, 200]",Palace Blue,Good for dark moonlight or a romantic evening.
+L716,"[0, 100, 210]",Mikkel Blue,A romantic blue to produce a night effect.
+L195,"[0, 110, 210]",Zenith Blue,Creates a good moonlight effect on a dark set. Also good for cycloramas.
+L715,"[60, 110, 220]",Cabana Blue,A deep blue that still has enough transmission to work encouragingly well on television.
+L723,"[80, 130, 220]",Virgin Blue,"This is a pure blue, not too green and not too lavender, yet still feels warm for a blue with an early morning feel."
+L721,"[0, 130, 230]",Berry Blue,Used in musical performances for rear colour wash or set lighting.
+L120,"[0, 95, 190]",Deep Blue,A pleasing effect for theatrical lighting.
+L363,"[0, 110, 195]",Special Medium Blue,Great for cool moonlight and mood effects.
+L085,"[0, 110, 185]",Deeper Blue,A deep warm blue. Good for back and side lighting.
+L119,"[0, 120, 200]",Dark Blue,Good for mood effects created by backlighting and side lighting. Creates great contrast.
+L722,"[0, 140, 210]",Bray Blue,A purer blue with very little red in it.
+L079,"[60, 140, 210]",Just Blue,A good colour mixing blue. Great for cyclorama lighting.
+L714,"[90, 145, 210]",Elysian Blue,A new deeper version of Alice Blue.
+L075,"[100, 160, 240]",Evening Blue,Good for night scenes and romantic moonlight.
+L525,"[142, 180, 250]",Argent Blue,"LSI's Silver Anniversary colour. Great for a foreboding cold winter's night, but useful for general illuminance too."
+L197,"[130, 170, 230]",Alice Blue,Great for cyclorama lighting and creating deep blue skies cyclorama cycloramas.
+L712,"[160, 190, 240]",Bedford Blue,A smoky warm blue. Good for skin tones.
+L200,"[145, 190, 245]",Double CTB,Converts tungsten (3200K) to daylight (26000K) .
+L719,"[155, 195, 240]",Colour Wash Blue,To allow low intensity tungsten to hold a cold/blue feel.
+L711,"[170, 190, 220]",Cold Blue,Cold/grey HMI effect from a tungsten source. Will also help blend the light when using both tungsten and HMI sources.
+L500,"[180, 210, 255]",Double New Colour Blue,The strongest of the NCB series for dramatic 'white' face and key light where warmer tones than CTB are required.
+L501,"[215, 235, 250]",New Colour Blue (Robertson Blue),An alternative to the CTB series with warmer tones and a lesser green cast for face and key light.
+L708,"[220, 235, 250]",Cool Lavender,For use as a warmer tint without turning yellow and to recreate the colour of fluorescent lighting.
+L053,"[230, 230, 250]",Paler Lavender,A subtle cool wash.
+L502,"[225, 240, 255]",Half New Colour Blue,A lighter correction in the NCB series.
+L503,"[244, 250, 255]",Quarter New Colour Blue,The lightest correction in the NCB series.
+L203,"[235, 252, 255]",Quarter CTB,Converts tungsten (3200K) to daylight (3600K).
+L600,"[152, 168, 170]",Arctic White,"Bright, brilliant blue-grey light at 100%. It does not warm up as it dims and is not affected by amber drift."
+L601,"[144, 160, 160]",Silver,"Silver-grey light at full power, dims through lavender grey then warm brown grey. Works well with 550 ALD Gold."
+L061,"[220, 245, 255]",Mist Blue,A cool wash good for night scenes.
+L063,"[210, 245, 255]",Pale Blue,"Cool front light wash, good for creating an overcast look for cold weather."
+L202,"[215, 240, 255]",Half CTB,Converts tungsten (3200K) to daylight (4300K).
+L281,"[205, 230, 250]",Three Quarter CTB,Converts tungsten to daylight.
+L201,"[195, 225, 250]",Full CTB,Converts tungsten (3200K) to photographic daylight (5700K).
+L283,"[175, 217, 245]",One and a Half CTB,Converts tungsten (3200K) to daylight (8888K).
+L366,"[170, 210, 240]",Cornflower,Great for pale moonlight and seasonal mood lighting.
+L174,"[175, 225, 250]",Dark Steel Blue,Great for set lighting. Creates good moonlight shadows.
+L161,"[125, 210, 245]",Slate Blue,"A pure medium blue. Good for skies, moonlight and dusk effects."
+L068,"[70, 180, 240]",Sky Blue,Good for morning skin tones and night skies. Great for cyclorama lights.
+L132,"[0, 160, 220]",Medium Blue,Deep moonlight. Great for colour mixing.
+L165,"[90, 200, 235]",Daylight Blue,Great for moonlight effect.
+L352,"[90, 200, 225]",Glacier Blue,"A cold blue, good for cool atmospheric mood setting."
+L143,"[100, 190, 210]",Pale Navy Blue,Great moonlight / night effect.
+L196,"[120, 210, 230]",True Blue,Great for moonlight effect.
+L727,"[0, 165, 180]",QFD Blue,A special version of 729 Scuba Blue which is good for backlighting and swimming pool effects.
+L141,"[0, 210, 230]",Bright Blue,Very dramatic when used as moonlight.
+L183,"[0, 215, 227]",Moonlight Blue,Good for moonlight effect and cycloramas.
+L118,"[0, 225, 235]",Light Blue,A strong night effect.
+L724,"[105, 225, 235]",Ocean Blue,Useful at low levels of light. Good for dull skies and moonlight.
+L144,"[90, 225, 230]",No Colour Blue,A clean blue with hints of green. Good for moonlight and sidelight.
+L725,"[190, 242, 243]",Old Steel Blue,"Cool wash, useful for highlights."
+L117,"[180, 250, 245]",Steel Blue,Good for cool washes. Adds a pale green tint. Great for emulating icy weather on stage.
+L140,"[135, 240, 235]",Summer Blue,Good for light midday sky. Light blue tinted wash.
+L353,"[97, 232, 227]",Lighter Blue,Good for daylight effects.
+L172,"[0, 220, 220]",Lagoon Blue,A floodlit warm wash. Great for underwater scenes and ballet.
+L354,"[0, 240, 215]",Special Steel Blue,A cooling blue-green wash for stage and set lighting.
+L729,"[0, 175, 170]",Scuba Blue,Used in musical performances for a rear colour wash or set lighting.
+L116,"[0, 200, 185]",Medium Blue-Green,A pleasing effect for theatrical lighting.
+L115,"[0, 235, 200]",Peacock Blue,"A pleasing effect on set Good for cyclorama and backlighting (e.g. ice rinks, galas, etc)."
+L327,"[0, 140, 80]",Forest Green,"A deep green for sinister forest scenes, cycloramas and backlighting."
+L124,"[0, 220, 120]",Dark Green,Good for cycloramas and backlighting.
+L735,"[0, 190, 120]",Velvet Green,A beautiful background colour. Victorian melodrama. A night time green.
+L323,"[0, 225, 170]",Jade,"Used for underwater scenes, cycloramas and backlighting."
+L322,"[65, 245, 190]",Soft Green,"A cool green used for gobo cover, pantomimes and cycloramas."
+L131,"[100, 250, 210]",Marine Blue,Good for romantic moonlight. Often used in ballet and underwater scenes.
+L219,"[155, 220, 175]",LEE Fluorescent Green,"General tungsten to fluorescent correction for use when fluorescent colour temp is unknown, to provide medium correction."
+L241,"[170, 220, 195]",LEE Fluorescent 5700 Kelvin,Converts tungsten to fluorescent light of 5700K (cool white/daylight).
+L728,"[200, 235, 210]",Steel Green,Approaching storms. Overcast days. Cold steely light. Malevolent moonlight.
+L504,"[210, 245, 220]",Waterfront Green,Designed for period key light and modern urban horizons.
+L730,"[220, 255, 230]",Liberty Green,A good green for creating mystery and suspense.
+L242,"[185, 230, 185]",LEE Fluorescent 4300 Kelvin,Converts tungsten to fluorescent light of 4300K (white).
+L243,"[205, 245, 175]",LEE Fluorescent 3600 Kelvin,Converts tungsten to fluorescent light of 3600K (warm white).
+L213,"[230, 252, 220]",White Flame Green,Corrects white flame carbon arcs by absorbing ultra violet.
+L246,"[245, 255, 230]",Quarter Plus Green,Used on daylight and tungsten lights for green cast with discharge lighting. Approximates CC075 green camera filter.
+L731,"[225, 250, 215]",Dirty Ice,"Dirtier than 730 Liberty green, more orange, sympathetic with skin tones."
+L733,"[235, 247, 207]",Damp Squib,"A dirty green, reduces warmth. Good for cross lighting."
+L245,"[240, 252, 210]",Half Plus Green,Used on daylight and tungsten lights for green cast with discharge lighting. Approximates CC15 green camera filter.
+L244,"[230, 250, 190]",LEE Plus Green,Used on daylight and tungsten lights for green cast with discharge lighting. Approximates CC30 green camera filter.
+L138,"[220, 255, 160]",Pale Green,Good with gobos for wooded scenes.
+L088,"[220, 255, 100]",Lime Green,"Use with gobos for leafy glades. Good for pantomimes, giving a slightly sinister atmosphere."
+L505,"[227, 255, 90]",Sally Green,"A fresh, light and airy summer green. 'Under tree canopy' light quality without 'pantomime countryside'."
+L738,"[170, 255, 0]",JAS Green,"A rich yellowish green. Useful as a concert stage wash where darker skin tone, costume and set are a consideration."
+L121,"[180, 255, 100]",LEE Green,"Good for dense foliage, tropical jungle or woodland effect."
+L122,"[120, 250, 110]",Fern Green,Good for cycloramas and creates a great mood effect.
+L089,"[90, 220, 90]",Moss Green,"Good mood creator. Used with gobos, creates a great foliage effect."
+L139,"[75, 195, 0]",Primary Green,Good for set lighting and cyclorama lighting.
+L090,"[0, 190, 0]",Dark Yellow Green,Highlighting for forest effects.
+L736,"[0, 170, 0]",Twickenham Green,"A powerful green with depth, for music or light entertainment."
+L740,"[90, 110, 0]",Aurora Borealis Green,Primary jungle colour. Removes some red and blue. Works best with daylight bulbs. Sodium lamp effect.
+L741,"[130, 100, 0]",Mustard Yellow,Spooky when used in haze. Removes some red and blue. Works best with daylight bulbs. Sodium lamp effect.
+L642,"[150, 130, 0]",Half Mustard Yellow,"Half strength Sodium light effect, designed for use with daylight sources."
+L643,"[180, 160, 0]",Quarter Mustard Yellow,"Quarter strength Sodium light effect, designed for use with daylight sources."
+L650,"[200, 168, 98]",Industry Sodium,Used on tungsten to blend with sodium light.
+L746,"[110, 60, 0]",Brown,"To give a murky, dirty feel to tungsten. A darker, less pink chocolate."
+L653,"[150, 85, 0]",LO Sodium,Used on tungsten to create a Low Pressure Sodium look.
+L511,"[150, 60, 0]",Bacon Brown,An intense and warm deep brown. Recreates the pigment browns used by Francis Bacon in some of his paintings.
+L742,"[225, 155, 80]",Bram Brown,"Dirtier than 156 Chocolate, good for skin tones. Dims well and doesn't go pink at low light levels."
+L208,"[230, 165, 80]",Full CTO + .6 ND,Converts daylight (6500K) to tungsten (3200K) and reduces light 2 stops.
+L207,"[240, 180, 107]",Full CTO + .3 ND,Converts daylight (6500K) to tungsten (3200K) and reduces light 1 stop.
+L232,"[237, 190, 131]",Super Correction W.F. Green,"Converts white flame arc to 3200K, for use with Tungsten film."
+L230,"[220, 190, 140]",Super Correction LCT Yellow,Converts yellow carbon arc (of low colour temperature) to tungsten.
+L156,"[225, 180, 140]",Chocolate,Warms light and reduces the intensity.
+L237,"[252, 178, 146]",CID (to Tungsten),"Converts CID to 3200K, for use with Tungsten film."
+L747,"[245, 185, 159]",Easy White,"Primarily developed for fluorescents to ensure warm, comfortable light and flattering skin tones."
+L238,"[245, 185, 170]",CSI (to Tungsten),"Converts CSI to 3200K, for use with Tungsten film."
+L152,"[255, 210, 193]",Pale Gold,Used with interior lighting to enhance skin tones.
+L162,"[252, 222, 216]",Bastard Amber,A warm white / warm wash. Good lamplight effect.
+L506,"[255, 218, 206]",Marlene,Flattering skin tone without the comedy 'pink'. For Marlene Dietrich who knew the importance of beautiful lighting.
+L009,"[252, 215, 179]",Pale Amber Gold,Perfect warm front light for any skin tone.
+L205,"[252, 217, 177]",Half CTO,Converts daylight (6500K) to tungsten light (3800K).
+L442,"[252, 220, 173]",Half CT Straw,Converts 6500K to 4300K - daylight to tungsten light with a yellow bias.
+L013,"[252, 216, 155]",Straw Tint,Warmer than other straw colours. A good sunlight effect when used in contrast with ambers and blues.
+L764,"[252, 230, 180]",Sun Colour Straw,"Adds warmth, bright sunlight."
+L103,"[252, 234, 204]",Straw,Pale sunlight through a window and a good warm winter effect.
+L206,"[252, 234, 214]",Quarter CTO,Converts daylight (6500K) to tungsten light (4600K).
+L443,"[252, 239, 219]",Quarter CT Straw,Converts 6500K to 5100K - daylight to tungsten light with a yellow bias.
+L763,"[252, 240, 210]",Wheat,"Adds warmth, sunlight."
+L212,"[255, 250, 215]",LCT Yellow (Y1),Reduces colour temperature of low carbon arcs to 3200K.
+L007,"[250, 250, 210]",Pale Yellow,Sunlight.
+L765,"[255, 229, 145]",LEE Yellow,Useful for producing a strong sunlight effect.
+L102,"[255, 220, 95]",Light Amber,A warm yellow colour. Great for candlelight or warm bright sunlight effects.
+L550,"[227, 202, 60]",ALD Gold,"A 'proper' gold to celebrate the 50th Anniversary of the ALD. Maintains richness as it dims, becoming more molten."
+L513,"[245, 255, 125]",Ice and a Slice,A pale acidic spring yellow. For a sharp white wash.
+L514,"[245, 255, 90]",Double G&T,"Double 513, when only a double will do. Has a more acidic bite."
+L100,"[245, 255, 0]",Spring Yellow,"A sunlight wash - use with gobos, disco and dark skin tones."
+L010,"[255, 255, 0]",Medium Yellow,A pure bright yellow. Great for special effects and accents. Use with caution in acting areas.
+L101,"[255, 245, 0]",Yellow,Sunlight and window effect - pleasant in acting areas.
+L767,"[255, 230, 0]",Oklahoma Yellow,A rich blend of bright sunshine and warm ochre overtones.
+L104,"[255, 220, 0]",Deep Amber,"Good for sunlight effect, accents and side light. Be careful of skin tones under the reddish tint of this colour."
+L015,"[255, 205, 0]",Deep Straw,A warm amber light. Good for effects such as candlelight and fire.
+L768,"[255, 198, 0]",Egg Yolk Yellow,"A bold strong chemical yellow, less orange/red than 179 Chrome orange."
+L179,"[255, 190, 0]",Chrome Orange,"A combination of 1/2 CTO and double strength 104, perfect for sunlight."
+L020,"[255, 190, 85]",Medium Amber,Good for afternoon sunlight and candlelight. Also great for side lighting.
+L770,"[255, 180, 0]",Burnt Yellow,"A colour that feels warm and dense on camera, a balance between 179 and 105."
+L105,"[255, 160, 0]",Orange,Good for light entertainment and functions. Creates a good fire effect when used with 106 or 104.
+L777,"[245, 130, 0]",Rust,A vivid rust colour effect.
+L512,"[204, 97, 0]",Amber Delight,A dark dirty orange.
+L652,"[255, 130, 70]",Urban Sodium,Used on tungsten to create the orange glow associated with Sodium light.
+L287,"[255, 160, 85]",Double CTO,Converts daylight (6500K) to tungsten (2147K).
+L286,"[255, 180, 100]",One and a Half CTO,Converts daylight (6500K) to tungsten (2507K).
+L204,"[250, 195, 135]",Full CTO,Converts daylight (6500K) to tungsten light (3200K).
+L441,"[250, 192, 132]",Full CT Straw,Converts 6500K to 3200K - daylight to tungsten light with a yellow bias.
+L744,"[248, 200, 130]",Dirty White,Correct a daylight source to an off white tungsten source. Wwith tungsten provides a dingy smoky bar effect.
+L285,"[252, 205, 148]",Three Quarter CTO,Converts daylight (6500K) to tungsten light (3600K).
+L236,"[250, 199, 149]",HMI (to Tungsten),"Converts HMI to 3200K, for use with Tungsten film."
+L604,"[255, 194, 149]",Full CT Eight Five,Converts Daylight (6500K) to Tungsten light (3200K) with a red bias. Orange effect similar to sodium when used on Tungsten.
+L651,"[255, 155, 95]",HI Sodium,Used on tungsten to create a High Pressure Sodium look.
+L017,"[230, 140, 100]",Surprise Peach,Good for skin tones and creating a moody lighting effect.
+L134,"[250, 168, 115]",Golden Amber,Great for emulating a sunset. Also good for side lighting and cyclorama lighting.
+L147,"[252, 185, 140]",Apricot,"Good for sunrise, sunset and lamplight effects."
+L776,"[252, 190, 155]",Nectarine,Romantic sunset. Period pieces.
+L773,"[252, 197, 178]",Cardbox Amber,Warm tint for skin tones.
+L108,"[252, 190, 169]",English Rose,Warm tint wash. Dark flesh tones and softer skin tones.
+L008,"[252, 155, 128]",Dark Salmon,"Enhances dark skin tones, sunsets, ballroom sets."
+L779,"[252, 152, 133]",Bastard Pink,Deep sunset. Useful on dark skin tones.
+L158,"[255, 135, 0]",Deep Orange,A great fire effect.
+L021,"[255, 140, 50]",Gold Amber,"Great for sunsets, cyclorama lighting and fire effects."
+L778,"[255, 118, 0]",Millennium Gold,"Useful for lighting architecture. Produces a rich amber on tungsten, or a much cooler effect on a HMI lamp."
+L780,"[255, 111, 0]",AS Golden Amber,"Between 778 Millennium Gold and 135 Deep Golden Amber, but less red. A strong colour good for backlighting."
+L022,"[255, 105, 0]",Dark Amber,A good backlight.
+L135,"[255, 95, 0]",Deep Golden Amber,A great fire effect.
+L781,"[255, 80, 0]",Terry Red,"A strong amber red that works well when used against deep reds and dark ambers, in wash combinations and on cycloramas."
+L025,"[255, 110, 70]",Sunset Red,"A good warm stage wash, TV studio wash or sunset effect."
+L507,"[248, 80, 0]",Madge,"Madge' is short for Imagination. Denser, saturated orange version of 135 avoiding 'pinky red'."
+L019,"[255, 70, 0]",Fire,A strong red/amber. Great for fire effects.
+L164,"[255, 50, 0]",Flame Red,Great for fire effects.
+L182,"[245, 0, 0]",Light Red,Good for theatre and television effect lighting as well as cycloramas.
+L106,"[240, 0, 50]",Primary Red,Strong red effect. Good with cyclorama lighting.
+L789,"[170, 60, 50]",Blood Red,For a deep saturated red effect. Used when a strong vivid red effect is required.
+L787,"[185, 0, 60]",Marius Red,Nice deep full red. Rose leaf colour.
+L027,"[200, 0, 60]",Medium Red,"Good for cyclorama lighting, side lighting and footlights. Also good for colour mixing."
+L029,"[225, 0, 60]",Plasa Red,"Good for fire effects, musicals and cycloramas."
+L026,"[230, 0, 60]",Bright Red,"A vibrant red, good for cyclorama lighting."
+L024,"[255, 90, 100]",Scarlet,"Great for pantomimes, ballroom sets and fire effects."
+L157,"[255, 146, 163]",Pink,Great for dance sequences (useful for softening white costumes without affecting skin tones).
+L107,"[255, 165, 175]",Light Rose,Good for general washes and followspots.
+L109,"[255, 178, 175]",Light Salmon,Interesting backlight.
+L176,"[255, 170, 160]",Loving Amber,Used for backlighting and general areas. Great for sunrise effect and warming skin tones.
+L790,"[255, 180, 165]",Moroccan Pink,"A rich natural pink, good for producing late afternoon sun effects."
+L036,"[255, 160, 185]",Medium Pink,Good for general washes and side lighting.
+L192,"[255, 140, 180]",Flesh Pink,Good for musical and pantomime key lighting.
+L111,"[255, 140, 190]",Dark Pink,Good for cyclorama lighting.
+L794,"[255, 175, 220]",Pretty 'n Pink,Creates warm and soft effects.
+L002,"[255, 120, 220]",Rose Pink,"Strong pink wash, good for cycloramas."
+L328,"[255, 100, 200]",Follies Pink,Great for dramatic stage lighting.
+L795,"[250, 70, 200]",Magical Magenta,Rich mixture of red and pinks.
+L128,"[255, 80, 180]",Bright Pink,Created for use as backlighting and side lighting. Great for musicals.
+L793,"[255, 60, 160]",Vanity Fair,"A rich glamorous pink, good for use on special occasions."
+L332,"[255, 55, 135]",Special Rose Pink,"Great for Pantomimes, light entertainment etc. A good strong stage wash."
+L148,"[255, 80, 125]",Bright Rose,Great for fire effects and musicals.
+L046,"[220, 0, 90]",Dark Magenta,"A very strong pink, good for backlighting."
+L113,"[255, 0, 100]",Magenta,Very strong - used carefully for small areas on set.
+L127,"[225, 98, 115]",Smokey Pink,"Good for cycloramas, set lighting and discos."
+L748,"[233, 103, 133]",Seedy Pink,A smoky pink. Good for tungsten on skin tones.
+L110,"[255, 180, 200]",Middle Rose,Pleasing effects for theatrical lighting.
+L247,"[250, 195, 215]",LEE Minus Green,Eliminates unwanted green cast created by discharge light sources on film. Approximates CC30 magenta camera filter.
+L035,"[255, 200, 210]",Light Pink,A warm wash good for musical reviews.
+L153,"[255, 200, 200]",Pale Salmon,Good for backlighting in conjunction with white light.
+L004,"[255, 200, 180]",Medium Bastard Amber,Naturally enhances skin tones.
+L151,"[255, 205, 195]",Gold Tint,A pleasing effect for theatrical lighting.
+L154,"[255, 213, 207]",Pale Rose,A pleasing effect for theatrical lighting. A good lamplight effect.
+L248,"[255, 226, 228]",Half Minus Green,Eliminates unwanted green cast created by discharge light sources on film. Approx. CC15 magenta camera filter.
+L249,"[255, 236, 240]",Quarter Minus Green,Eliminates unwanted green cast created by discharge light sources on film. Approx. CC075 magenta camera filter.
+L279,"[255, 243, 247]",Eighth Minus Green,Provides very slight correction. Used on lighting to eliminate unwanted green cast created by discharge light sources on film.
+L003,"[250, 240, 250]",Lavender Tint,Subtle cool wash for stage and studio lighting.
+L218,"[245, 255, 255]",Eighth CTB,Converts tungsten (3200K) to daylight (3400K).
+L278,"[243, 255, 243]",Eighth Plus Green,Used on daylight and tungsten to provide very slight green cast when used in conjunction with discharge lighting.
+L159,"[255, 250, 235]",No Colour Straw,A warm effect. Sunlight.
+L223,"[255, 243, 232]",Eighth CTO,Converts daylight (6500K) to tungsten light (5550K).
+L444,"[250, 243, 232]",Eighth CT Straw,Converts 6500K to 5700K - daylight to tungsten light with a yellow bias.
+L602,"[165, 165, 170]",Platinum,"At full power produces dazzling grey light with slight red bias, when dimmed warms up quickly to a useful brown."
+L603,"[200, 205, 205]",Moonlight White,"Pleasant white light at full power, dims down to a warm colour and at low intensities has more yellow than red."
+L130,"[255, 255, 255]",Clear,Used in animation and projection work.
+R00 ,"[255, 255, 255]",Dempster Open White,"A durable, heat resistant polycarbonate film used in the preparation of color scrollers to allow the passage from a color to clear. (Transmission = 96%)."
+R01 ,"[251, 179, 154]",Light Bastard Amber,Enhances fair skin tones. Suggests strong sunlight. (Transmission = 56%).
+R02 ,"[255, 209, 172]",Bastard Amber,Good where a tint of color is needed. Excellent for natural skin tones. (Transmission = 78%).
+R03 ,"[251, 186, 154]",Dark Bastard Amber,Most saturated Bastard Amber. (Transmission = 62%).
+R303,"[255, 138, 74]", Warm Peach,Heavier Amber-pink tint. Useful to create warm sunlight. (Transmission = 55%).
+R04 ,"[249, 176, 154]",Medium Bastard Amber,Especially useful when cross lit with a cool color. Excellent for natural sunlight. (Transmission = 66%).
+R304,"[250, 188, 169]", Pale Apricot,A peach amber. More yellow than 305. (Transmission = 79%).
+R05 ,"[255, 215, 211]",Rose Tint,A clean pale pink; useful as a blush for skin tones. (Transmission = 80%).
+R305,"[245, 186, 184]", Rose Gold,A pale blush amber for skin tones and backlight. (Transmission = 75%).
+R07 ,"[253, 250, 209]",Pale Yellow,Double saturation of 06. (Transmission = 96%).
+R09 ,"[255, 203, 134]",Pale Amber Gold,Deep straw. Good for late afternoon sunsets or firelight. (Transmission = 74%).
+R10 ,"[255, 242, 0]",Medium Yellow,Yellow with green. Good for special effects. Unflattering in acting areas. (Transmission = 92%).
+R11 ,"[255, 210, 26]",Light Straw,Pale yellow with slight red content. Useful for candle effects. Can be used for area lighting. For bright day feeling. (Transmission = 82%).
+R312,"[255, 234, 0]", Canary,"Warmer than 10. A bright, vibrant yellow that evokes exotic sunlight. Use with caution on skin. (Transmission = 85%)."
+R13 ,"[255, 216, 143]",Straw Tint,Much less green than in other straws. Suggests warm sunlight glow when contrasted with ambers and blues. (Transmission = 78%).
+R313,"[255, 228, 98]", Light Relief Yellow,Vibrant Yellow. More red than 312. Less green than all other yellows. (Transmission = 76%).
+R14 ,"[252, 212, 25]",Medium Straw,"Pale amber-higher red content than 12. Sunlight, accents, area lighting with caution to skin tones. (Transmission = 68%)."
+R15 ,"[254, 203, 0]",Deep Straw,"Warm golden amber with some green. Useful for special effects-candlelight, firelight. (Transmission = 65%)."
+R317,"[255, 116, 24]", Apricot,A rosy amber which produces a romantic sunset color. Useful as sidelight or backlight color. (Transmission = 51%).
+R318,"[255, 111, 41]", Mayan Sun,A medium salmon color which evokes feeling of a tropical island. A good sunset color. Interesting backlight and accent color. Good for warm tonal effects. (Transmission = 52%).
+R19 ,"[255, 57, 11]",Fire,Strong red amber. Excellent for fire effects. (Transmission = 20%).
+R20 ,"[255, 135, 28]",Medium Amber,Afternoon sunlight. Lamplight and candlelight. Tends to depress color pigment values. (Transmission = 54%).
+R21 ,"[255, 102, 19]",Golden Amber,Useful for amber cyc light and late sunsets. (Transmission = 43%).
+R22 ,"[255, 67, 10]",Deep Amber,Very useful as a backlight. Dramatic specials and firelight. (Transmission = 26%).
+R23 ,"[255, 90, 0]",Orange,Provides a romantic sunlight through windows for evening effects. (Transmission = 32%).
+R24 ,"[245, 0, 20]",Scarlet,Very deep amber. Red with a touch of blue. (Transmission = 22%).
+R324,"[245, 15, 57]", Gypsy Red,Vibrant orange-red. Helps red and orange scenery pop. (Transmission = 31%).
+R25 ,"[229, 31, 0]",Orange Red,Good for firelight or special effects. Use when red with higher yellow content is needed. (Transmission = 14%).
+R26 ,"[215, 2, 41]",Light Red,Vibrant red. Good alternative primary. (Transmission = 12%).
+R27 ,"[176, 2, 2]",Medium Red,"Good red primary for use with three-color light primary systems in cyclorama lighting, footlights, and border lights. (Transmission = 4%)."
+R30 ,"[255, 122, 89]",Light Salmon Pink,Excellent for general area washes. Gives overall warming effect to skin tones. (Transmission = 44%).
+R31 ,"[255, 132, 127]",Salmon Pink,General wash. Good for follow spots. (Transmission = 46%).
+R331,"[255, 157, 141]", Shell Pink,Warmer and lighter than 31. Good for fair skin tones and to emphasize romance. (Transmission = 68%).
+R32 ,"[255, 65, 60]",Medium Salmon Pink,Deepest of the salmon pinks. (Transmission = 28%).
+R332,"[255, 41, 87]", Cherry Rose,A tropical pink that is good for musicals or concert lighting. A good backlight color. Interesting accent color. Good for a splash of sunset color. (Transmission = 38%).
+R33 ,"[255, 194, 208]",No Color Pink,A pale almost colorless pink. (Transmission = 65%).
+R35 ,"[255, 167, 187]",Light Pink,"Similar to 33, but slightly deeper. (Transmission = 66%)."
+R36 ,"[255, 109, 150]",Medium Pink,Good for general washes and cross lighting. (Transmission = 46%).
+R336,"[255, 115, 183]", Billington Pink,(Transmission = 48%).
+R337,"[255, 175, 194]", True Pink,A cool pink excellent for washes and general illumination. A good follow spot color. A component of early morning sunrise. (Transmission = 55%).
+R38 ,"[255, 187, 226]",Light Rose,"Similar uses as 37, but with greater saturation. (Transmission = 49%)."
+R339,"[255, 18, 131]", Broadway Pink,"A deep, saturated pink created for musicals and specials. Excellent for down and backlighting. (Transmission = 15%)."
+R39 ,"[232, 0, 188]",Skelton Exotic Sangria,"A sultry, deep purple. Good for musicals or concert lighting. Excellent special effects color. (Transmission = 10%)."
+R40 ,"[255, 79, 31]",Light Salmon,Similar uses to 23 but a bluer color. (Transmission = 34%).
+R342,"[255, 21, 98]", Rose Pink,"Extremely intense, hot pink. Produces strong washes of color for concert and dance. Combined with a complimentary color like turquoise, will create a dynamic, sculptured effect. (Transmission = 16%)."
+R43 ,"[255, 62, 147]",Deep Pink,"Rich, hot pink. Electric in effect with rich saturation. (Transmission = 28%)."
+R343,"[255, 57, 127]", Neon Pink,"A bright, dark pink excellent for musicals or rock and roll concert lighting. A good color for creating fake neon effects with fluorescent tubes. (Transmission = 33%)."
+R344,"[255, 5, 211]", Follies Pink,"A vibrant, almost fluorescent pink with a cool component. Traditionally important as a special effects color in the Broadway musical. Follow spot and dance applications as a modeling color. (Transmission = 21%)."
+R45 ,"[235, 1, 109]",Rose,Use on scenery and background effects. Adds tone and modeling to scenery. (Transmission = 8%).
+R46 ,"[189, 4, 93]",Magenta,Similar uses as 45 where more saturation is needed. (Trans.= 6%). (Transmission = 6%).
+R346,"[255, 45, 213]", Tropical Magenta,(Transmission = 22%).
+R47 ,"[204, 78, 185]",Light Rose Purple,Good for eerie or dramatic effects. Beautiful backlight color. (Transmission = 16%).
+R347,"[209, 1, 221]", Belladonna Rose,Powerful magenta-purple. Good effects filter for dance. (Transmission = 6%).
+R48 ,"[200, 0, 207]",Rose Purple,Pale evening color. Excellent for backlight. (Transmission = 16%).
+R348,"[218, 45, 255]", Purple Jazz,A dusky purple. Good for simulating purple neon or old night club atmosphere. (Transmission = 14%).
+R49 ,"[201, 0, 230]",Medium Purple,Darkest of the magenta purple range. (Transmission = 4%).
+R349,"[240, 0, 255]", Fisher Fuchsia,A medium fuchsia good for special effects. An interesting backlight or accent color. (Transmission = 11%).
+R50 ,"[187, 0, 44]",Mauve,Subdued sunset effect. Useful in backlights. To create seedy atmosphere. (Transmission = 14%).
+R351,"[239, 220, 255]", Lavender Mist,(Transmission = 61%).
+R52 ,"[221, 191, 255]",Light Lavender,Excellent for general area or border light washes. It is a basic followspot color. (Transmission = 26%).
+R53 ,"[228, 220, 255]",Pale Lavender,Use when a touch of color is needed. (Transmission = 64%).
+R353,"[196, 173, 255]", Lilly Lavender,Same intensity as 55 with more red content. (Transmission = 29%).
+R54 ,"[230, 199, 255]",Special Lavender,"Same as 53, but warmer. Useful for beams of realistic moonlight. (Transmission = 50%)."
+R55 ,"[192, 170, 253]",Lilac,"Same as 53, but cooler. (Transmission = 37%)."
+R355,"[165, 144, 255]", Pale Violet,A cool lavender which acts as a neutral in a three color area lighting system. Will work well as a wash for drops or set pieces. Tones the space. Effective as moonlight shadows. (Transmission = 20%).
+R56 ,"[140, 47, 255]",Gypsy Lavender,"Highly saturated, good for side and backlighting and non-realistic effect. (Transmission = 4%)."
+R356,"[195, 141, 255]", Middle Lavender,A lavender halfway between 52 and 57 in hue and value. Useful for general illumination and side-lighting. (Transmission = 27%).
+R57 ,"[180, 130, 255]",Lavender,Excellent backlight. Gives good visibility without destroying night illusions. (Transmission = 24%).
+R357,"[138, 43, 255]", Royal Lavender,"A rich lavender which will enhance blue and red costumes and scenic pieces. Excellent for nightime scenes. Rich, vivid accents, good in backgrounds. (Transmission = 5%)."
+R58 ,"[147, 63, 253]",Deep Lavender,Excellent back light. Enhances dimensionality. (Trans.= 10%). (Transmission = 10%).
+R358,"[142, 10, 234]", Rose Indigo,"A warm, red purple that recalls the Jazz Age. Useful for creating saturated color effects in live performance situations-club and musical group lighting. (Transmission = 5%)."
+R59 ,"[114, 0, 255]",Indigo,"The original Congo Blue. A purple-blue, highly saturated, for modeling effects and non-realistic atmospheres. (Transmission = 2%)."
+R359,"[104, 63, 255]", Medium Violet,Midnight and moonlight illusions. Enforces mysterious mood. Useful for evening cyc wash. (Transmission = 9%).
+R61 ,"[211, 234, 255]",Mist Blue,Excellent for general area washes. Very light cool tint of blue. (Transmission = 66%).
+R361,"[102, 158, 252]", Hemsley Blue,A sharp cold blue that stays clean when dimmed. (Transmission = 18%).
+R62 ,"[161, 206, 255]",Booster Blue,Helps maintain white light when dimmer is at low intensity. (Transmission = 54%).
+R63 ,"[164, 211, 255]",Pale Blue,Good for creating an overcast look and feeling. (Transmission = 56%).
+R363,"[171, 233, 255]", Aquamarine,A pale blue-green color. Can be used for area lighting. A soft backlight color. (Transmission = 52%).
+R64 ,"[80, 174, 253]",Light Steel Blue,Useful for beams of realistic moonlight. (Transmission = 26%).
+R65 ,"[0, 169, 255]",Daylight Blue,Useful for achieving depressed moods and dull skies. (Transmission = 35%).
+R66 ,"[148, 174, 255]",Cool Blue,A pale green shade of blue; good for area or general washes. Creates an icy feeling on stage. (Transmission = 67%).
+R366,"[41, 192, 249]", Jordan Blue,More green than 65. A crisp light blue-green. (Transmission = 32%).
+R67 ,"[20, 169, 255]",Light Sky Blue,Excellent sky color. Useful for cyc and border lights. (Transmission = 26%).
+R367,"[68, 165, 255]", Slate Blue,Clean medium blue. Good for sky color or moonlight. (Transmission = 20%).
+R68 ,"[68, 125, 255]",Parry Sky Blue,Excellent for early morning sky tones. Popular among designers for cyc and borders. (Transmission = 14%).
+R368,"[68, 138, 255]", Winkler Blue,"A silvery blue, used for front light and moonlight. (Transmission = 16%)."
+R69 ,"[0, 163, 247]",Brilliant Blue,Used for dramatic moonlight effects. (Transmission = 18%).
+R369,"[0, 198, 255]", Tahitian Blue,Slightly more green than 69. (Transmission = 22%).
+R70 ,"[108, 229, 255]",Nile Blue,Useful for very light midday skies. Occasionally used for general cool tint. (Transmission = 45%).
+R370,"[1, 205, 223]", Italian Blue,Good to create eerie and mysterious effects. Good for night time water effects. (Transmission = 31%).
+R71 ,"[0, 150, 199]",Sea Blue,Occasionally used for general cool tint and non-realistic washes. (Transmission = 30%).
+R371,"[163, 168, 255]", Theatre Booster 1,Less red than 3202. (Transmission = 35%).
+R72 ,"[85, 204, 255]",Azure Blue,A clean slightly green blue. Good moonlight fill. (Transmission = 44%).
+R372,"[217, 220, 255]", Theatre Booster 2,Slightly lighter and less red than 3204. (Transmission = 55%).
+R73 ,"[0, 164, 184]",Peacock Blue,"Good for fantasy, moonlight and water effects. (Transmission = 28%)."
+R373,"[224, 233, 253]", Theatre Booster 3,Slightly lighter and less red than 3208. (Transmission = 72%).
+R74 ,"[66, 0, 255]",Night Blue,Fantasy moonlight. Crisp and beautiful. Popular as a backlight or sidelight in contrast to area light. (Transmission = 4%).
+R374,"[1, 164, 166]", Sea Green,For enhancing water scenes or deep sea environments. Greener than 73. (Transmission = 26%).
+R75 ,"[0, 122, 172]",Twilight Blue,Less green & cresper than 76. (Transmission = 11%).
+R76 ,"[0, 87, 115]",Light Green Blue,Distinctive greenish blues. Useful for romantic moonlight. (Transmission = 9%).
+R377,"[113, 36, 255]", Iris Purple,Medium neutral lavendar. Good wash light. (Transmission = 11%).
+R78 ,"[111, 111, 255]",Trudy Blue,A rich clean red blue that warms to lavender when dimmed. (Transmission = 19%).
+R79 ,"[22, 38, 255]",Bright Blue,Cool clear bright blue. (Transmission = 8%).
+R80 ,"[0, 72, 255]",Primary Blue,Primary blue. For use with three color light primary system in cyc lighting. (Transmission = 9%).
+R81 ,"[72, 111, 255]",Urban Blue,Very cold brittle feeling. (Transmission = 10%).
+R82 ,"[79, 52, 248]",Surprise Blue,Deep rich blue with slight amount of red. (Transmission = 6%).
+R382,"[37, 0, 112]", Congo Blue,Deep blue more saturated than Roscolux 385. Good for dark night skies or for a backlight color. A great color for rock and roll concert lighting. (Transmission = 1%).
+R83 ,"[2, 40, 236]",Medium Blue,Good for non-realistic night skies. (Transmission = 4%).
+R383,"[0, 34, 209]", Sapphire Blue,A deep romantic blue on the red side. (Transmission = 4%).
+R84 ,"[87, 103, 255]",Zephyr Blue,A true blue with excellent punch for bright skies. Lovely contrast to pale blues; adds coldness to shadows. (Transmission = 14%).
+R384,"[5, 0, 208]", Midnight Blue,An intense red-blue. Deeper than 83 with a little more red. (Transmission = 2%).
+R85 ,"[0, 73, 206]",Deep Blue,Deeply saturated blue with a hint of red. (Transmission = 3%).
+R385,"[79, 2, 207]", Royal Blue,Excellent for non-realistic backgrounds. A very saturated blue. Pronounced red content that will shift toward purple when dimmed. Low transmission but will offer a striking contrast when used as a background with lighter accents. (Transmission = 4%).
+R86 ,"[137, 250, 25]",Pea Green,Good for dense foliage and woodland effects. (Transmission = 56%).
+R386,"[123, 211, 0]", Leaf Green,(Transmission = 32%).
+R388,"[208, 245, 78]", Gaslight Green,"A yellow-green similar to the color emitted by gas lighting fixtures. Appropriate for period pieces: i.e. La Boheme, and useful for creating reflections from fields and meadows. (Transmission = 76%)."
+R89 ,"[81, 246, 85]",Moss Green,"Useful for mood, mystery and toning. (Transmission = 45%)."
+R389,"[41, 244, 51]", Chroma Green,Suggests reflected light from dense foliage. A brilliant cyc lighting color which will work for chroma-keying effects in television production (Transmission = 40%).
+R90 ,"[0, 127, 6]",Dark Yellow Green,Alternate primary where higher transmission is desired. (Transmission = 13%).
+R91 ,"[0, 94, 44]",Primary Green,Primary green for three color primary system. (Transmission = 7%).
+R392,"[0, 148, 147]", Pacific Green,Cyc Wash. Good Costume color. Magical on skin. (Transmission = 20%).
+R93 ,"[1, 163, 160]",Blue Green,Useful for mood of mystery and for toning scenery that has been spattered in blues. (Transmission = 35%).
+R393,"[0, 113, 80]", Emerald Green,"An exagerrated green. Nearly double intensity as 93, less blue than 95. (Transmission = 14%)."
+R94 ,"[0, 152, 93]",Kelly Green,Fantasy and unrealistic effects. Unflattering on skin tones. (Transmission = 25%).
+R95 ,"[0, 156, 145]",Medium Blue Green,"Used on foliage in moonlight areas or for creating a mood of mystery. Good for toning scenery painted in blues, blue-greens and greens. (Transmission = 15%)."
+R395,"[0, 114, 106]", Teal Green,A medium green-blue which can be used as a mystical special effect color. Also an interesting side or backlight color in concert lighting. (Transmission = 13%).
+R96 ,"[243, 255, 107]",Lime,To simulate unnatural sunlight before and after a rainstorm or tornado. (Transmission = 98%).
+R398,"[176, 180, 185]", Neutral Grey,A very neutral filter to balance brightness of lamps of different wattage without changing the color temperature. (Transmission = 40%).
+R100,"[255, 255, 255]", Frost,Frost. Changes ellipsoidal to fresnel beam pattern.
+R101,"[255, 255, 255]", Light Frost,Offers softened beam.Changes ellipsoidal into flood or scoop.
+R104,"[255, 255, 255]", Tough Silk,"Creates a slash of light for stretching light along stairs, tables, cycs, etc. Diffuses while maintaining compactness of beam."
+R113,"[255, 255, 255]", Matte Silk,Good for striplights and specials.
+R114,"[255, 255, 255]", Hamburg Frost,A very light frost; good on followspots and PAR lamps.
+R119,"[255, 255, 255]", Light Hamburg Frost,Lighter than 114. Recommended for followspots and slight diffuse focus for ellipsoldals.
+R120,"[207, 0, 14]", Red Diffusion,"Combine a color with Matte Diffusion. Aids in broad, even illumination of cycs and drops. (Transmission = N/A)."
+R121,"[15, 39, 255]", Blue Diffusion,"Combine a color with Matte Diffusion. Aids in broad, even illumination of cycs and drops. (Transmission = N/A)."
+R122,"[30, 150, 0]", Green Diffusion,"Combine a color with Matte Diffusion. Aids in broad, even illumination of cycs and drops. (Transmission = N/A)."
+R124,"[201, 0, 17]", Red Cyc Silk,Combine a color with 104 Tough Silk. (Transmission = N/A).
+R125,"[0, 26, 255]", Blue Cyc Silk,Useful in border and striplights to prevent scalloping; helps illuminate cycs and drops. (Transmission = N/A).
+R126,"[26, 143, 0]", Green Cyc Silk,Useful in border and striplights to prevent scalloping; helps illuminate cycs and drops. (Transmission = N/A).
+R127,"[255, 67, 10]", Amber Cyc Silk,A secondary color combined with 104 Tough Silk. (Transmission = N/A).
+R132,"[255, 255, 255]", Quarter Hamburg Frost,No Description
+R140,"[255, 255, 255]", Subtle Hamburg Frost,No Description
+R160,"[255, 255, 255]", Light Tough Silk,Retains the diffusion properties of 104 but with less light loss.
